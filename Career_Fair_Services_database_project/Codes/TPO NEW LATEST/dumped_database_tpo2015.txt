@@ -1,0 +1,1930 @@
+===Database tpo2015
+
+== Table structure for table admission1
+
+|------
+|Field|Type|Null|Default
+|------
+|//**id**//|int(255)|No|
+|diclass|varchar(500)|No|
+|diyear|varchar(500)|No|
+|sname|varchar(500)|No|
+|fname|varchar(500)|No|
+|faname|varchar(500)|No|
+|mname|varchar(500)|No|
+|adcnum|varchar(500)|No|
+|bdate|varchar(500)|No|
+|placeb|varchar(500)|No|
+|nation|varchar(500)|No|
+|mtongue|varchar(500)|No|
+|religion|varchar(500)|No|
+|caste|varchar(500)|No|
+|category|varchar(500)|No|
+|xconducted|varchar(500)|No|
+|scattended|varchar(500)|No|
+|scaddress|varchar(500)|No|
+|scdist|varchar(500)|No|
+|scstate|varchar(500)|No|
+|laddress|varchar(500)|No|
+|lpin|varchar(500)|No|
+|lemail|varchar(500)|No|
+|lstdno|varchar(500)|No|
+|lmobile|varchar(500)|No|
+|paddress|varchar(500)|No|
+|ppin|varchar(500)|No|
+|pstdno|varchar(500)|No|
+|pmobile|varchar(500)|No|
+|faaddress|varchar(500)|No|
+|faoccu|varchar(500)|No|
+|faincome|varchar(500)|No|
+|faoffaddress|varchar(500)|No|
+|fatelno|varchar(500)|No|
+== Dumping data for table admission1
+
+|6|asfas|FE|adsfa|afasfa|fsafa|fafas|12441241|2017-11-17|faf|ADA| |fa|faf|afa| | | | | |						asg|asg| | | |			asg			|535753| | | |a|8786|						ag| 
+|7|information technology|FE|sawant|vighnesh|sanjay|trupti|12441241|1994-11-17|chicago|US| |hindu|open|open| | | | | |				2801-aptno 1402 		|60616| | | |						2801-aptno 1402 		|60616| | | |service|50000|		Chicago,us				| 
+|8|Bachelors|FE|sawant|vighnesh|sanjay|trupti|12441241|1994-11-17|mumbai|india|marathi|hindu|open|open|				PVG		|					PVG junior college	|						mumbai|mumbai|maha|					mumbai	|mumbai|vsawant10@gmail.com|5715659109|5715659109|		mumbai				|mumbai|5715659109|5715659109|		Sanjay sawant				|service|50000|						mumbai|5715659109
+|9|information technology|FE|sawant|vighnesh|sanjay|trupti|12441241|1994-11-17|mumbai|india| |hindu|open|open| | | | | |						chi|60616| | | |						chi|60616| | | |service|50000|			mumbai			| 
+== Table structure for table admission2
+
+|------
+|Field|Type|Null|Default
+|------
+|//**id**//|int(11)|No|
+|ad1id|varchar(255)|Yes|NULL
+|VIIIMYP|varchar(255)|Yes|NULL
+|VIIISCN|varchar(255)|Yes|NULL
+|VIIID|varchar(255)|Yes|NULL
+|VIIIB|varchar(255)|Yes|NULL
+|IXMYP|varchar(255)|Yes|NULL
+|IXSCN|varchar(255)|Yes|NULL
+|IXD|varchar(255)|Yes|NULL
+|IXB|varchar(255)|Yes|NULL
+|SSCMYP|varchar(255)|Yes|NULL
+|SSCSCN|varchar(255)|Yes|NULL
+|SSCD|varchar(255)|Yes|NULL
+|SSCB|varchar(255)|Yes|NULL
+|HSCMYP|varchar(255)|Yes|NULL
+|HSCSCN|varchar(255)|Yes|NULL
+|HSCD|varchar(255)|Yes|NULL
+|HSCB|varchar(255)|Yes|NULL
+|SSCE|varchar(255)|Yes|NULL
+|SSCM|varchar(255)|Yes|NULL
+|SSCO|varchar(255)|Yes|NULL
+|HSCE|varchar(255)|Yes|NULL
+|HSCM|varchar(255)|Yes|NULL
+|HSCO|varchar(255)|Yes|NULL
+|SSCEM|varchar(255)|Yes|NULL
+|SSCMM|varchar(255)|Yes|NULL
+|SSCOM|varchar(255)|Yes|NULL
+|HSCEM|varchar(255)|Yes|NULL
+|HSCMM|varchar(255)|Yes|NULL
+|HSCOM|varchar(255)|Yes|NULL
+|SSCES|varchar(255)|Yes|NULL
+|SSCMS|varchar(255)|Yes|NULL
+|SSCOS|varchar(255)|Yes|NULL
+|HSCES|varchar(255)|Yes|NULL
+|HSCMS|varchar(255)|Yes|NULL
+|HSCOS|varchar(255)|Yes|NULL
+|SSCEV|varchar(255)|Yes|NULL
+|SSCMV|varchar(255)|Yes|NULL
+|SSCOV|varchar(255)|Yes|NULL
+|HSCEV|varchar(255)|Yes|NULL
+|HSCMV|varchar(255)|Yes|NULL
+|HSCOV|varchar(255)|Yes|NULL
+|SSCVT|varchar(255)|Yes|NULL
+|HSCVT|varchar(255)|Yes|NULL
+|HSCMCVC|varchar(255)|Yes|NULL
+|GDE|varchar(255)|Yes|NULL
+|GAP|varchar(255)|Yes|NULL
+|GAPCER|varchar(255)|Yes|NULL
+|LOCATED|varchar(255)|Yes|NULL
+|FROMVAL|varchar(255)|Yes|NULL
+|WORK|varchar(255)|Yes|NULL
+|TRANSFER|varchar(255)|Yes|NULL
+|sname|varchar(255)|Yes|NULL
+|pname|varchar(255)|Yes|NULL
+|ssign|varchar(255)|Yes|NULL
+|psign|varchar(255)|Yes|NULL
+== Dumping data for table admission2
+
+== Table structure for table admission3
+
+|------
+|Field|Type|Null|Default
+|------
+|//**id**//|int(11)|No|
+|ad1id|varchar(255)|Yes|NULL
+|place|varchar(255)|Yes|NULL
+|csign|varchar(255)|Yes|NULL
+|date1|varchar(255)|Yes|NULL
+|gsign|varchar(255)|Yes|NULL
+|place1|varchar(255)|Yes|NULL
+|date2|varchar(255)|Yes|NULL
+|csign1|varchar(255)|Yes|NULL
+|acyear|varchar(255)|Yes|NULL
+|tfees|varchar(255)|Yes|NULL
+|recno|varchar(255)|Yes|NULL
+|pfees|varchar(255)|Yes|NULL
+|sign|varchar(255)|Yes|NULL
+== Dumping data for table admission3
+
+== Table structure for table branch
+
+|------
+|Field|Type|Null|Default
+|------
+|//**id**//|int(255)|No|
+|branch|varchar(500)|No|
+|abb|varchar(500)|No|
+== Dumping data for table branch
+
+|1|Computer Engineering|CS
+|2|Information Techonology|IT
+|3|Mechanical Engineering|MECH
+|4|Electrical Engineering|ETRL
+|5|Electronics and Telecommunication Engineering|EXTC
+|6|Electronics Engineering|ETRX
+|7|Instrumentation Engineering|IS
+== Table structure for table cv
+
+|------
+|Field|Type|Null|Default
+|------
+|//**uid**//|int(255)|No|
+|sname|varchar(255)|No|
+|paddress|varchar(255)|No|
+|mobile|varchar(255)|No|
+|email|varchar(255)|No|
+|dob|varchar(255)|No|
+|gender|varchar(255)|No|
+|nation|varchar(255)|No|
+|mstatus|varchar(255)|No|
+|lang|varchar(255)|No|
+|q1|varchar(255)|No|
+|q2|varchar(255)|No|
+|q3|varchar(255)|No|
+|q4|varchar(255)|No|
+|ex1|varchar(255)|No|
+|ui1|varchar(255)|No|
+|year1|varchar(255)|No|
+|class1|varchar(255)|No|
+|ex2|varchar(255)|No|
+|ui2|varchar(255)|No|
+|year2|varchar(255)|No|
+|class2|varchar(255)|No|
+|ex3|varchar(255)|No|
+|ui3|varchar(255)|No|
+|year3|varchar(255)|No|
+|class3|varchar(255)|No|
+|ex4|varchar(255)|No|
+|ui4|varchar(255)|No|
+|year4|varchar(255)|No|
+|class4|varchar(255)|No|
+== Dumping data for table cv
+
+|8|					vighnesh						|					chicago						|5715659109|vsawant10@gmail.com|17/11/1994|male|US|single|english|						Bachelors in computer engg						|											|												|												|Masters|IIT|2017|A| | | | | | | | | | | | 
+|9|				af		|						asf|1124124|a@gmail.com|2017-11-17|asf|asf|asf|asf|				asf		|				asf		|				asf		|				asf		|asf|asff|asf|asf| | | | | | | | | | | | 
+== Table structure for table deadmission
+
+|------
+|Field|Type|Null|Default
+|------
+|//**id**//|int(255)|No|
+|declass|varchar(500)|No|
+|deyear|varchar(500)|No|
+|adyear|varchar(500)|No|
+|recnum|varchar(500)|No|
+|recdate|varchar(500)|No|
+|sname|varchar(500)|No|
+|fname|varchar(500)|No|
+|faname|varchar(500)|No|
+|mname|varchar(500)|No|
+|adcnum|varchar(500)|No|
+|bdate|varchar(500)|No|
+|placeb|varchar(500)|No|
+|nation|varchar(500)|No|
+|bstate|varchar(500)|No|
+|religion|varchar(500)|No|
+|caste|varchar(500)|No|
+|category|varchar(500)|No|
+|cattended|varchar(500)|No|
+|caddress|varchar(500)|No|
+|ctal|varchar(500)|No|
+|cdist|varchar(500)|No|
+|cstate|varchar(500)|No|
+|laddress|varchar(500)|No|
+|ltal|varchar(500)|No|
+|ldist|varchar(500)|No|
+|lstate|varchar(500)|No|
+|lpin|varchar(500)|No|
+|slmobile|varchar(500)|No|
+|lemail|varchar(500)|No|
+|paddress|varchar(500)|No|
+|ptal|varchar(500)|No|
+|pdist|varchar(500)|No|
+|pstate|varchar(500)|No|
+|ppin|varchar(500)|No|
+|pstdno|varchar(500)|No|
+|pmobile|varchar(500)|No|
+|fapname|varchar(500)|No|
+|faoccu|varchar(500)|No|
+|faincome|varchar(500)|No|
+|famobno|varchar(500)|No|
+|faoffaddress|varchar(500)|No|
+== Dumping data for table deadmission
+
+|6|LEAKOEKLDS|BE|fjfioff|jroijfds|AWHOQIJD|sam|fhfd|hfsdil|sfjsjsid|1234567890|easuio|fnsejslj|sfjsj|nsdfjsl|FJFJ|SDFJDSFJ|DSJFS|U8EUURIRWFW						|FOIEODASKDLADFUSHFSIFJLSKD						|YEFIUSF|FHFUHFK|FHUF|FHUH																		|EFEHWFU|GFHUW|EFHUFH|GHWUGH| |GWHGWU|GWHGWU																		|GWUGH|GWHG|GWGHWU|GQGH|GUGH|GGHWU|						CASNJLDJDAKD|GWUGH|GUGH|GWHGW|GWUGH																		
+|7|asd|124124|2114|114141|2017-11-17|AF|AF|AF|AF|14124|2017-11-17|AF|AF|AF|AF|AF|AF|		AF				|		AF				|AF|AF|aff|						AF|AF|AF|AFA|45212|214141|a@g.com|			asfa			|asf|af|asf|24|1414|13131|			afaf			|afaf|2414|13141|			asfa			
+|8|asd|124124|2114|114141|2017-11-17|adsfa|AF|AF|AF|12441241|2017-11-17|AF|ADA|AF|AF|AF|AF|				af		|				asf		|asf|asf|aff|			afs			|asf|asf|asf|45212|214141|a@g.com|			aasf			|asf|af|aas|24|1414|13131|					asf	|a|2414|13141|						asfas
+|9|asd|BE|2114|114141|2017-11-17|adsfa|AF|AF|AF|12441241|2017-11-17|AF|ADA|AF|AF|AF|AF|				af								|				asf								|asf|asf|aff|			afs									|asf|asf|asf|45212|214141|a@g.com|			aasf									|asf|af|aas|24|1414|13131|			asd			|a|2414|13141|						asfas						
+|10|information technology|2018|2114|114141|2017-11-27|sawant|vighnesh|sanjay|trupti|12441241|1994-11-17|chicago|US|illinois|hindu|open|open|			IIT			|						35th street|35 st |chicago|illinois|				2801		|S king Drive|chicago|illinois|60616|5715659109|vsawant10@gmail.com|						2801	|S king Drive|chicago|illinois|60616|5715659109|5715659109|				sanjay sawant		|service|50000|3125689784|				usa		
+|11|information technology|BE|2016|114141|2017-11-27|sawant|vighnesh|sanjay|trupti|12441241|1994-11-17|chicago|US|illinois|hindu|open|open|		CSU|				usa|35 st |chicago|illinois|			aptno1402 - 2801|S king Drive|chicago|illinois|60616|5715659109|vsawant10@gmail.com|							aptno1402 - 2801		|S king Drive|chicago|illinois|60616|5715659109|5715659109|			Sanjay sawant|service|50000|3125689784|			usa
+|12|information technology|2018|2012|114141|2017-11-30|sawant|vighnesh|sanjay|trupti|12441241|1994-11-17|mumbai|india|maha|hindu|open|open|				IIT|chicago| |32nd|illinois|	prarie shores		| |28th|illinois|60616|5715659109|vsawant10@gmail.com|						tilak nagar| |12|maharashtra|535753|5715659109|4844899799|						Sanjay Sawant|service|50000| |						Mumbai
+|13|information technology|2019|2012|114141|2017-11-30|sawant|vighnesh|sanjay|trupti|12441241|1994-11-17|mumbai|india|maha|hindu|open|open|				IIT						|chicago						|35 st |32nd|illinois|	prarie shores								| |28th|illinois|60616|5715659109|vsawant10@gmail.com|						tilak nagar						| |12|maharashtra|535753|5715659109|4844899799|						sanjay|service|50000| |						Mumbai						
+|14|information technology|TE|2012|114141|2017-11-30|sawant|vighnesh|sanjay|trupti|12441241|1994-11-17|mumbai|india|maha|hindu|open|open|				IIT												|chicago												|35 st |32nd|illinois|	prarie shores														| |28th|illinois|60616|5715659109|vsawant10@gmail.com|						tilak nagar												| |12|maharashtra|535753|5715659109|4844899799|				sanjay		|service|50000| |						Mumbai												
+== Table structure for table defeadmission
+
+|------
+|Field|Type|Null|Default
+|------
+|//**id**//|int(255)|No|
+|declass|varchar(500)|No|
+|deyear|varchar(500)|No|
+|adcnum|varchar(500)|No|
+|sname|varchar(500)|No|
+|fname|varchar(500)|No|
+|faname|varchar(500)|No|
+|mname|varchar(500)|No|
+|bdate|varchar(500)|No|
+|placeb|varchar(500)|No|
+|nation|varchar(500)|No|
+|bstate|varchar(500)|No|
+|religion|varchar(500)|No|
+|caste|varchar(500)|No|
+|category|varchar(500)|No|
+|cattended|varchar(500)|No|
+|caddress|varchar(500)|No|
+|ctal|varchar(500)|No|
+|cdist|varchar(500)|No|
+|cstate|varchar(500)|No|
+|laddress|varchar(500)|No|
+|ltal|varchar(500)|No|
+|ldist|varchar(500)|No|
+|lstate|varchar(500)|No|
+|lpin|varchar(500)|No|
+|slmobile|varchar(500)|No|
+|lemail|varchar(500)|No|
+|paddress|varchar(500)|No|
+|ptal|varchar(500)|No|
+|pdist|varchar(500)|No|
+|pstate|varchar(500)|No|
+|ppin|varchar(500)|No|
+|pstdno|varchar(500)|No|
+|pmobile|varchar(500)|No|
+|fapname|varchar(500)|No|
+|faoccu|varchar(500)|No|
+|faincome|varchar(500)|No|
+|famobno|varchar(500)|No|
+|faoffaddress|varchar(500)|No|
+== Dumping data for table defeadmission
+
+== Table structure for table defeadmission1
+
+|------
+|Field|Type|Null|Default
+|------
+|//**id**//|int(11)|No|
+|ad1id|varchar(255)|Yes|NULL
+|year1|varchar(255)|Yes|NULL
+|seat1|varchar(255)|Yes|NULL
+|grade1|varchar(255)|Yes|NULL
+|obtain1|varchar(255)|Yes|NULL
+|result1|varchar(255)|Yes|NULL
+|fsub1|varchar(255)|Yes|NULL
+|year2|varchar(255)|Yes|NULL
+|seat2|varchar(255)|Yes|NULL
+|grade2|varchar(255)|Yes|NULL
+|obtain2|varchar(255)|Yes|NULL
+|result2|varchar(255)|Yes|NULL
+|fsub2|varchar(255)|Yes|NULL
+|year3|varchar(255)|Yes|NULL
+|seat3|varchar(255)|Yes|NULL
+|grade3|varchar(255)|Yes|NULL
+|obtain3|varchar(255)|Yes|NULL
+|result3|varchar(255)|Yes|NULL
+|fsub3|varchar(255)|Yes|NULL
+|year4|varchar(255)|Yes|NULL
+|seat4|varchar(255)|Yes|NULL
+|grade4|varchar(255)|Yes|NULL
+|obtain4|varchar(255)|Yes|NULL
+|result4|varchar(255)|Yes|NULL
+|fsub4|varchar(255)|Yes|NULL
+|year5|varchar(255)|Yes|NULL
+|seat5|varchar(255)|Yes|NULL
+|grade5|varchar(255)|Yes|NULL
+|obtain5|varchar(255)|Yes|NULL
+|result5|varchar(255)|Yes|NULL
+|fsub5|varchar(255)|Yes|NULL
+|year6|varchar(255)|Yes|NULL
+|seat6|varchar(255)|Yes|NULL
+|grade6|varchar(255)|Yes|NULL
+|obtain6|varchar(255)|Yes|NULL
+|result6|varchar(255)|Yes|NULL
+|fsub6|varchar(255)|Yes|NULL
+|year7|varchar(255)|Yes|NULL
+|seat7|varchar(255)|Yes|NULL
+|grade7|varchar(255)|Yes|NULL
+|obtain7|varchar(255)|Yes|NULL
+|result7|varchar(255)|Yes|NULL
+|fsub7|varchar(255)|Yes|NULL
+|date1|varchar(255)|Yes|NULL
+|ssign|varchar(255)|Yes|NULL
+|place|varchar(255)|Yes|NULL
+|name|varchar(255)|Yes|NULL
+|date2|varchar(255)|Yes|NULL
+|ssign1|varchar(255)|Yes|NULL
+|place1|varchar(255)|Yes|NULL
+|name1|varchar(255)|Yes|NULL
+|tfees|varchar(255)|Yes|NULL
+|ddno|varchar(255)|Yes|NULL
+|date3|varchar(255)|Yes|NULL
+|bank|varchar(255)|Yes|NULL
+|recno|varchar(255)|Yes|NULL
+|date4|varchar(255)|Yes|NULL
+|esign|varchar(255)|Yes|NULL
+|csign|varchar(255)|Yes|NULL
+|rsign|varchar(255)|Yes|NULL
+|psign|varchar(255)|Yes|NULL
+== Dumping data for table defeadmission1
+
+|1|NULL|2010|225|235|25|asf|0|af|235|5235|25|asf|0|afaf|252|2352|25|afs|0|af|35|235|25|asf|0|af|235|352|213|afs|0|af|235|235|13|af|0| | | | | | |176|E:IMG_6911.JPG|asf|asf|asa|E:IMG_6912.JPG|asv|avssva|2141|235|2017-11-17|sfsZSV|23552362|2017-01-17|E:IMG_6912.JPG|E:IMG_6911.JPG|E:IMG_6912.JPG|E:IMG_6912.JPG
+|2|NULL|2010|225|235|25|asf|0|af|235|5235|25|asf|0|afaf|252|2352|25|afs|0|af|35|235|25|asf|0|af|235|352|213|afs|0|af|235|235|13|af|0| | | | | | |176|E:IMG_6911.JPG|asf|asf|asa|E:IMG_6912.JPG|asf|asf|2141|235| |sfsZSV|23552362|2017-11-17|E:IMG_6911.JPG|E:IMG_6911.JPG|E:IMG_6912.JPG|E:IMG_6911.JPG
+|3|NULL|2010|225|235|25|asf|0|af|235|5235|25|asf|0|afaf|252|2352|25|afs|0|af|35|235|25|asf|0|af|235|352|213|afs|0|af|235|235|13|af|0| | | | | | |176|E:IMG_6911.JPG|asf|asf|176|E:IMG_6911.JPG|asf|asf|2141|235|2017-11-17|sfsZSV|23552362|2017-11-17|E:IMG_6912.JPG|E:IMG_6911.JPG|E:IMG_6911.JPG|E:IMG_6912.JPG
+|4|NULL|DEC 2012|A0399823|1000|1000|A|0|MAY 2013|A0399823|1000|1000|A|0|DEC 2013|A0399823|1000|1000|A|0|MAY 2014|A0399823|1000|1000|A|0|DEC 2014|A0399823|1000|1000|A|0|MAY 2015|A0399823|1000|1000|A|0| | | | | | |27/12/2017|C:UsersvsawaDesktopsignature.png|chicago|vighnesh|27/12/2017|C:UsersvsawaDesktopsignature.png|chicago|Vighnesh|15000|12345|2017-11-27|chicago|23552362|2017-11-27|C:UsersvsawaDesktopsignature.png|C:UsersvsawaDesktopsignature.png|C:UsersvsawaDesktopsignature.png|C:UsersvsawaDesktopsignature.png
+|5|NULL|DEC 2012|A0399823|1000|1000|A|0|MAY 2013|A0399823|1000|1000|A|0|DEC 2013|A0399823|1000|1000|A|0|MAY 2014|A0399823|1000|1000|A|0| | | | | | | | | | | | | | | | | | |2017-11-30|C:UsersvsawaDesktopsignature.png|chicago|Vighnesh|2017-11-30|C:UsersvsawaDesktopsignature.png|chicago|Vighnesh|15000|12345|2017-11-30|chicago|23552362|2017-11-30|C:UsersvsawaDesktopsignature.png|C:UsersvsawaDesktopsignature.png|C:UsersvsawaDesktopsignature.png|C:UsersvsawaDesktopsignature.png
+|6|NULL|DEC 2012|A0399823|1000|1000|A|0|MAY 2013|A0399823|1000|1000|A|0|DEC 2013|A0399823|1000|1000|A|0|MAY 2014|A0399823|1000|1000|A|0| | | | | | | | | | | | | | | | | | |2017-11-30|C:UsersvsawaDesktopsignature.png|chicago|Vighnesh|2017-11-30|C:UsersvsawaDesktopsignature.png|chicago|Vighnesh|15000|12345|2017-11-30|chicago|23552362|2017-11-30|C:UsersvsawaDesktopsignature.png|C:UsersvsawaDesktopsignature.png|C:UsersvsawaDesktopsignature.png|C:UsersvsawaDesktopsignature.png
+|7|NULL|DEC 2012|A0399823|1000|1000|A|0|MAY 2013|A0399823|1000|1000|A|0|DEC 2013|A0399823|1000|1000|A|0|MAY 2014|A0399823|1000|1000|A|0| | | | | | | | | | | | | | | | | | |2017-11-30|C:UsersvsawaDesktopsignature.png|chicago|Vighnesh|2017-11-30|C:UsersvsawaDesktopsignature.png|chicago|Vighnesh|15000|12345|2017-11-30|chicago|23552362|2017-11-30|C:UsersvsawaDesktopsignature.png|C:UsersvsawaDesktopsignature.png|C:UsersvsawaDesktopsignature.png|C:UsersvsawaDesktopsignature.png
+== Table structure for table fedeadmission2
+
+|------
+|Field|Type|Null|Default
+|------
+|//**id**//|int(11)|No|
+|ad1id|varchar(255)|Yes|NULL
+|math|varchar(255)|Yes|NULL
+|phy|varchar(255)|Yes|NULL
+|dash|varchar(255)|Yes|NULL
+|total|varchar(255)|Yes|NULL
+|board10|varchar(255)|Yes|NULL
+|year10|varchar(255)|Yes|NULL
+|max10|varchar(255)|Yes|NULL
+|obt10|varchar(255)|Yes|NULL
+|class10|varchar(255)|Yes|NULL
+|per10|varchar(255)|Yes|NULL
+|board12|varchar(255)|Yes|NULL
+|year12|varchar(255)|Yes|NULL
+|max12|varchar(255)|Yes|NULL
+|obt12|varchar(255)|Yes|NULL
+|class12|varchar(255)|Yes|NULL
+|per12|varchar(255)|Yes|NULL
+|boardd|varchar(255)|Yes|NULL
+|yeard|varchar(255)|Yes|NULL
+|maxd|varchar(255)|Yes|NULL
+|obtd|varchar(255)|Yes|NULL
+|classd|varchar(255)|Yes|NULL
+|perd|varchar(255)|Yes|NULL
+|jroll|varchar(255)|Yes|NULL
+|jphy|varchar(255)|Yes|NULL
+|jche|varchar(255)|Yes|NULL
+|jmath|varchar(255)|Yes|NULL
+|jtotal|varchar(255)|Yes|NULL
+|jper|varchar(255)|Yes|NULL
+|date1|varchar(255)|Yes|NULL
+|ssign|varchar(255)|Yes|NULL
+|place|varchar(255)|Yes|NULL
+|name|varchar(255)|Yes|NULL
+|date2|varchar(255)|Yes|NULL
+|ssign1|varchar(255)|Yes|NULL
+|place1|varchar(255)|Yes|NULL
+|name1|varchar(255)|Yes|NULL
+|tfees|varchar(255)|Yes|NULL
+|ddno|varchar(255)|Yes|NULL
+|date3|varchar(255)|Yes|NULL
+|bank|varchar(255)|Yes|NULL
+|recno|varchar(255)|Yes|NULL
+|date4|varchar(255)|Yes|NULL
+|csign|varchar(255)|Yes|NULL
+|rsign|varchar(255)|Yes|NULL
+|psign|varchar(255)|Yes|NULL
+== Dumping data for table fedeadmission2
+
+== Table structure for table fesemarks
+
+|------
+|Field|Type|Null|Default
+|------
+|uid|varchar(255)|Yes|NULL
+|addyear|varchar(255)|Yes|NULL
+|febranch|varchar(255)|Yes|NULL
+|SUB11|varchar(255)|Yes|NULL
+|TMAR11|varchar(255)|Yes|NULL
+|IMAR11|varchar(255)|Yes|NULL
+|TWMAR11|varchar(255)|Yes|NULL
+|PMAR11|varchar(255)|Yes|NULL
+|OMAR11|varchar(255)|Yes|NULL
+|SMAR11|varchar(255)|Yes|NULL
+|PF11|varchar(255)|Yes|NULL
+|SUB12|varchar(255)|Yes|NULL
+|TMAR12|varchar(255)|Yes|NULL
+|IMAR12|varchar(255)|Yes|NULL
+|TWMAR12|varchar(255)|Yes|NULL
+|PMAR12|varchar(255)|Yes|NULL
+|OMAR12|varchar(255)|Yes|NULL
+|SMAR12|varchar(255)|Yes|NULL
+|PF12|varchar(255)|Yes|NULL
+|SUB13|varchar(255)|Yes|NULL
+|TMAR13|varchar(255)|Yes|NULL
+|IMAR13|varchar(255)|Yes|NULL
+|TWMAR13|varchar(255)|Yes|NULL
+|PMAR13|varchar(255)|Yes|NULL
+|OMAR13|varchar(255)|Yes|NULL
+|SMAR13|varchar(255)|Yes|NULL
+|PF13|varchar(255)|Yes|NULL
+|SUB14|varchar(255)|Yes|NULL
+|TMAR14|varchar(255)|Yes|NULL
+|IMAR14|varchar(255)|Yes|NULL
+|TWMAR14|varchar(255)|Yes|NULL
+|PMAR14|varchar(255)|Yes|NULL
+|OMAR14|varchar(255)|Yes|NULL
+|SMAR14|varchar(255)|Yes|NULL
+|PF14|varchar(255)|Yes|NULL
+|SUB15|varchar(255)|Yes|NULL
+|TMAR15|varchar(255)|Yes|NULL
+|IMAR15|varchar(255)|Yes|NULL
+|TWMAR15|varchar(255)|Yes|NULL
+|PMAR15|varchar(255)|Yes|NULL
+|OMAR15|varchar(255)|Yes|NULL
+|SMAR15|varchar(255)|Yes|NULL
+|PF15|varchar(255)|Yes|NULL
+|SUB16|varchar(255)|Yes|NULL
+|TMAR16|varchar(255)|Yes|NULL
+|IMAR16|varchar(255)|Yes|NULL
+|TWMAR16|varchar(255)|Yes|NULL
+|PMAR16|varchar(255)|Yes|NULL
+|OMAR16|varchar(255)|Yes|NULL
+|SMAR16|varchar(255)|Yes|NULL
+|PF16|varchar(255)|Yes|NULL
+|SUB17|varchar(255)|Yes|NULL
+|TMAR17|varchar(255)|Yes|NULL
+|IMAR17|varchar(255)|Yes|NULL
+|TWMAR17|varchar(255)|Yes|NULL
+|PMAR17|varchar(255)|Yes|NULL
+|OMAR17|varchar(255)|Yes|NULL
+|SMAR17|varchar(255)|Yes|NULL
+|PF17|varchar(255)|Yes|NULL
+|per1|varchar(255)|Yes|NULL
+|SUB21|varchar(255)|Yes|NULL
+|TMAR21|varchar(255)|Yes|NULL
+|IMAR21|varchar(255)|Yes|NULL
+|TWMAR21|varchar(255)|Yes|NULL
+|PMAR21|varchar(255)|Yes|NULL
+|OMAR21|varchar(255)|Yes|NULL
+|SMAR21|varchar(255)|Yes|NULL
+|PF21|varchar(255)|Yes|NULL
+|SUB22|varchar(255)|Yes|NULL
+|TMAR22|varchar(255)|Yes|NULL
+|IMAR22|varchar(255)|Yes|NULL
+|TWMAR22|varchar(255)|Yes|NULL
+|PMAR22|varchar(255)|Yes|NULL
+|OMAR22|varchar(255)|Yes|NULL
+|SMAR22|varchar(255)|Yes|NULL
+|PF22|varchar(255)|Yes|NULL
+|SUB23|varchar(255)|Yes|NULL
+|TMAR23|varchar(255)|Yes|NULL
+|IMAR23|varchar(255)|Yes|NULL
+|TWMAR23|varchar(255)|Yes|NULL
+|PMAR23|varchar(255)|Yes|NULL
+|OMAR23|varchar(255)|Yes|NULL
+|SMAR23|varchar(255)|Yes|NULL
+|PF23|varchar(255)|Yes|NULL
+|SUB24|varchar(255)|Yes|NULL
+|TMAR24|varchar(255)|Yes|NULL
+|IMAR24|varchar(255)|Yes|NULL
+|TWMAR24|varchar(255)|Yes|NULL
+|PMAR24|varchar(255)|Yes|NULL
+|OMAR24|varchar(255)|Yes|NULL
+|SMAR24|varchar(255)|Yes|NULL
+|PF24|varchar(255)|Yes|NULL
+|SUB25|varchar(255)|Yes|NULL
+|TMAR25|varchar(255)|Yes|NULL
+|IMAR25|varchar(255)|Yes|NULL
+|TWMAR25|varchar(255)|Yes|NULL
+|PMAR25|varchar(255)|Yes|NULL
+|OMAR25|varchar(255)|Yes|NULL
+|SMAR25|varchar(255)|Yes|NULL
+|PF25|varchar(255)|Yes|NULL
+|SUB26|varchar(255)|Yes|NULL
+|TMAR26|varchar(255)|Yes|NULL
+|IMAR26|varchar(255)|Yes|NULL
+|TWMAR26|varchar(255)|Yes|NULL
+|PMAR26|varchar(255)|Yes|NULL
+|OMAR26|varchar(255)|Yes|NULL
+|SMAR26|varchar(255)|Yes|NULL
+|PF26|varchar(255)|Yes|NULL
+|SUB27|varchar(255)|Yes|NULL
+|TMAR27|varchar(255)|Yes|NULL
+|IMAR27|varchar(255)|Yes|NULL
+|TWMAR27|varchar(255)|Yes|NULL
+|PMAR27|varchar(255)|Yes|NULL
+|OMAR27|varchar(255)|Yes|NULL
+|SMAR27|varchar(255)|Yes|NULL
+|PF27|varchar(255)|Yes|NULL
+|per2|varchar(255)|Yes|NULL
+|SUB31|varchar(255)|Yes|NULL
+|TMAR31|varchar(255)|Yes|NULL
+|IMAR31|varchar(255)|Yes|NULL
+|TWMAR31|varchar(255)|Yes|NULL
+|PMAR31|varchar(255)|Yes|NULL
+|OMAR31|varchar(255)|Yes|NULL
+|SMAR31|varchar(255)|Yes|NULL
+|PF31|varchar(255)|Yes|NULL
+|SUB32|varchar(255)|Yes|NULL
+|TMAR32|varchar(255)|Yes|NULL
+|IMAR32|varchar(255)|Yes|NULL
+|TWMAR32|varchar(255)|Yes|NULL
+|PMAR32|varchar(255)|Yes|NULL
+|OMAR32|varchar(255)|Yes|NULL
+|SMAR32|varchar(255)|Yes|NULL
+|PF32|varchar(255)|Yes|NULL
+|SUB33|varchar(255)|Yes|NULL
+|TMAR33|varchar(255)|Yes|NULL
+|IMAR33|varchar(255)|Yes|NULL
+|TWMAR33|varchar(255)|Yes|NULL
+|PMAR33|varchar(255)|Yes|NULL
+|OMAR33|varchar(255)|Yes|NULL
+|SMAR33|varchar(255)|Yes|NULL
+|PF33|varchar(255)|Yes|NULL
+|SUB34|varchar(255)|Yes|NULL
+|TMAR34|varchar(255)|Yes|NULL
+|IMAR34|varchar(255)|Yes|NULL
+|TWMAR34|varchar(255)|Yes|NULL
+|PMAR34|varchar(255)|Yes|NULL
+|OMAR34|varchar(255)|Yes|NULL
+|SMAR34|varchar(255)|Yes|NULL
+|PF34|varchar(255)|Yes|NULL
+|SUB35|varchar(255)|Yes|NULL
+|TMAR35|varchar(255)|Yes|NULL
+|IMAR35|varchar(255)|Yes|NULL
+|TWMAR35|varchar(255)|Yes|NULL
+|PMAR35|varchar(255)|Yes|NULL
+|OMAR35|varchar(255)|Yes|NULL
+|SMAR35|varchar(255)|Yes|NULL
+|PF35|varchar(255)|Yes|NULL
+|SUB36|varchar(255)|Yes|NULL
+|TMAR36|varchar(255)|Yes|NULL
+|IMAR36|varchar(255)|Yes|NULL
+|TWMAR36|varchar(255)|Yes|NULL
+|PMAR36|varchar(255)|Yes|NULL
+|OMAR36|varchar(255)|Yes|NULL
+|SMAR36|varchar(255)|Yes|NULL
+|PF36|varchar(255)|Yes|NULL
+|SUB37|varchar(255)|Yes|NULL
+|TMAR37|varchar(255)|Yes|NULL
+|IMAR37|varchar(255)|Yes|NULL
+|TWMAR37|varchar(255)|Yes|NULL
+|PMAR37|varchar(255)|Yes|NULL
+|OMAR37|varchar(255)|Yes|NULL
+|SMAR37|varchar(255)|Yes|NULL
+|PF37|varchar(255)|Yes|NULL
+|addyear1|varchar(255)|Yes|NULL
+|febranch1|varchar(255)|Yes|NULL
+|per3|varchar(255)|Yes|NULL
+|SUB41|varchar(255)|Yes|NULL
+|TMAR41|varchar(255)|Yes|NULL
+|IMAR41|varchar(255)|Yes|NULL
+|TWMAR41|varchar(255)|Yes|NULL
+|PMAR41|varchar(255)|Yes|NULL
+|OMAR41|varchar(255)|Yes|NULL
+|SMAR41|varchar(255)|Yes|NULL
+|PF41|varchar(255)|Yes|NULL
+|SUB42|varchar(255)|Yes|NULL
+|TMAR42|varchar(255)|Yes|NULL
+|IMAR42|varchar(255)|Yes|NULL
+|TWMAR42|varchar(255)|Yes|NULL
+|PMAR42|varchar(255)|Yes|NULL
+|OMAR42|varchar(255)|Yes|NULL
+|SMAR42|varchar(255)|Yes|NULL
+|PF42|varchar(255)|Yes|NULL
+|SUB43|varchar(255)|Yes|NULL
+|TMAR43|varchar(255)|Yes|NULL
+|IMAR43|varchar(255)|Yes|NULL
+|TWMAR43|varchar(255)|Yes|NULL
+|PMAR43|varchar(255)|Yes|NULL
+|OMAR43|varchar(255)|Yes|NULL
+|SMAR43|varchar(255)|Yes|NULL
+|PF43|varchar(255)|Yes|NULL
+|SUB44|varchar(255)|Yes|NULL
+|TMAR44|varchar(255)|Yes|NULL
+|IMAR44|varchar(255)|Yes|NULL
+|TWMAR44|varchar(255)|Yes|NULL
+|PMAR44|varchar(255)|Yes|NULL
+|OMAR44|varchar(255)|Yes|NULL
+|SMAR44|varchar(255)|Yes|NULL
+|PF44|varchar(255)|Yes|NULL
+|SUB45|varchar(255)|Yes|NULL
+|TMAR45|varchar(255)|Yes|NULL
+|IMAR45|varchar(255)|Yes|NULL
+|TWMAR45|varchar(255)|Yes|NULL
+|PMAR45|varchar(255)|Yes|NULL
+|OMAR45|varchar(255)|Yes|NULL
+|SMAR45|varchar(255)|Yes|NULL
+|PF45|varchar(255)|Yes|NULL
+|SUB46|varchar(255)|Yes|NULL
+|TMAR46|varchar(255)|Yes|NULL
+|IMAR46|varchar(255)|Yes|NULL
+|TWMAR46|varchar(255)|Yes|NULL
+|PMAR46|varchar(255)|Yes|NULL
+|OMAR46|varchar(255)|Yes|NULL
+|SMAR46|varchar(255)|Yes|NULL
+|PF46|varchar(255)|Yes|NULL
+|SUB47|varchar(255)|Yes|NULL
+|TMAR47|varchar(255)|Yes|NULL
+|IMAR47|varchar(255)|Yes|NULL
+|TWMAR47|varchar(255)|Yes|NULL
+|PMAR47|varchar(255)|Yes|NULL
+|OMAR47|varchar(255)|Yes|NULL
+|SMAR47|varchar(255)|Yes|NULL
+|PF47|varchar(255)|Yes|NULL
+|per4|varchar(255)|Yes|NULL
+== Dumping data for table fesemarks
+
+|NULL|2114|casf|asfa|a|a|a|a|a|a|a|asf|a|a|a|a|a|a|a|asf|a|a|a|a|a|a|a|asf|a|a|a|a|a|a|a|asf|a|a|a|a|a|a|a|asf|a|a|a|a|a|a|a|asf|a|a|a|a|a|a|a|3|asff|a|a|a|a|a|a|a|asf|a|a|a|a|a|a|a|asf|a|a|a|a|a|a|a|asf|a|a|a|a|a|a|a|asf|a|a|a|a|a|a|a|asf|a|a|a|a|a|a|a|asf|a|a|a|a|a|a|a|3|af|a|a|a|a|a|a|a|asf|a|a|a|a|a|a|a|asf|a|a|a|a|a|a|a|asf|a|a|a|a|a|a|a|asf|a|a|a|a|a|a|a|asf|a|a|a|a|a|a|a|asff|a|a|a|a|a|a|a|11414|caf|3|asf|a|a|a|a|a|a|a|asf|a|a|a|a|a|a|a|asf|a|a|a|a|a|a|a|asf|a|a|a|a|a|a|a|asf|a|a|a|a|a|a|a|asf|a|a|a|a|a|a|a|asf|a|a|a|a|a|a|a|2
+|NULL|2114|casf|asfa|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|3|asff|a|a|a|a|a|a|a|asf|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|asf|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|asf|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|3|af|a|a|a|a|a|a|a|asf|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|asf|a|a|a|a|a|a|a|a|a|a|a|aa|a|a|a|11414|a|1|a|a|a|a|a|a|a|a|asf|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|asf|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|2
+|NULL|2114|casf|asfa|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|3|asff|a|a|a|a|a|a|a|asf|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|asf|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|asf|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|3|af|a|a|a|a|a|a|a|asf|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|asf|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|11414|a|1|a|a|a|a|a|a|a|a|asf|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|asf|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|2
+|NULL|2012|Information Technology|OOPM|A|A|A|A|A|A|P|DA|A|A|A|A|A|A|P|DB|A|A|A|A|A|A|P| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |4|ADV TOPICS IN DA|A|A|A|A|A|A|P|DWM|A|A|A|A|A|A|P|CSS|A|A|A|A|A|A|P| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |4|DM|A|A|A|A|A|A|P|ECCF|A|A|A|A|A|A|P|DLDA|A|A|A|A|A|A|P| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |2013|Information Technology|4|HCI|A|A|A|A|A|A|P|RS|A|A|A|A|A|A|P|TCS|A|A|A|A|A|A|P| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |4
+|NULL|2012|Information Technology|OOPM|A|A|A|A|A|A|P|DA|A|A|A|A|A|A|P| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |4|ADV TOPICS IN DA|A|A|A|A|A|A|P| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |4|DM|A|A|A|A|A|A|P| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |2013|Information Technology|4|HCI|A|A|A|A|A|A|P| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |4
+|NULL|2012|Information Technology|OOPM|A|A|A|A|A|A|P|DA|A|A|A|A|A|A|P| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |4|ADV TOPICS IN DA|A|A|A|A|A|A|P| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |4|DM|A|A|A|A|A|A|P| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |2013|Information Technology|4|HCI|A|A|A|A|A|A|P| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |4
+|NULL|2012|Information Technology|OOPM|A|A|A|A|A|A|P|DA|A|A|A|A|A|A|P| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |4|ADV TOPICS IN DA|A|A|A|A|A|A|P| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |4|DM|A|A|A|A|A|A|P| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |2013|Information Technology|4|HCI|A|A|A|A|A|A|P| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |4
+== Table structure for table marks
+
+|------
+|Field|Type|Null|Default
+|------
+|//**id**//|int(255)|No|
+|sname|varchar(255)|No|
+|branch|varchar(255)|No|
+|year|varchar(255)|No|
+|sem|varchar(255)|No|
+|ut|varchar(255)|No|
+|sub1|varchar(255)|No|
+|sub2|varchar(255)|No|
+|sub3|varchar(255)|No|
+|sub4|varchar(255)|No|
+|sub5|varchar(255)|No|
+|sub6|varchar(255)|No|
+== Dumping data for table marks
+
+== Table structure for table subject
+
+|------
+|Field|Type|Null|Default
+|------
+|//**id**//|int(255)|No|
+|branch|varchar(500)|No|
+|course|varchar(500)|No|
+|year|varchar(500)|No|
+|sem|varchar(500)|No|
+|subject|varchar(500)|No|
+== Dumping data for table subject
+
+|1|IT|diploma|FE|sem1|css
+|2|IT|diploma|FE|sem1|ip
+|3|IT|diploma|FE|sem1|dwm
+|4|IT|diploma|FE|sem1|da
+|5|IT|diploma|FE|sem1|dm
+|6|IT|diploma|FE|sem1|oopm
+|7|IT|diploma|FE|sem1|mp
+|8|CS|degree|BE|sem7|a
+|9|CS|degree|BE|sem7|b
+|10|CS|degree|BE|sem7|c
+|11|CS|degree|BE|sem7|d
+|12|CS|degree|BE|sem7|e
+|13|CS|degree|BE|sem7|f
+|14|IT|degree|FE|sem1|abc
+|15|IT|degree|FE|sem1|subject2
+|16|IT|degree|FE|sem1|subject3
+|17|IT|degree|FE|sem1|subject4
+|18|IT|degree|FE|sem1|subject5
+|19|IT|degree|FE|sem1|subject6
+== Table structure for table tbl_admin
+
+|------
+|Field|Type|Null|Default
+|------
+|//**ID**//|bigint(20) |No|
+|Name|varchar(200)|No|
+|Address|varchar(200)|No|
+|Contact|varchar(20)|No|
+|EmailID|varchar(30)|No|
+|Username|varchar(20)|No|
+|Password|varchar(20)|No|
+== Dumping data for table tbl_admin
+
+|1|Career Services|Illinois institue of techonology|9220669429|iit@gmail.com|a|a
+== Table structure for table tbl_album
+
+|------
+|Field|Type|Null|Default
+|------
+|UserID|bigint(20)|No|
+|Photo|varchar(100)|No|
+|Date|varchar(30)|No|
+== Dumping data for table tbl_album
+
+|2|Hydrangeas.jpg|5th  January 2012
+|2|Lighthouse.jpg|5th  January 2012
+== Table structure for table tbl_college_records
+
+|------
+|Field|Type|Null|Default
+|------
+|//**ID**//|smallint(5) |No|
+|Sem1Percentage|varchar(30)|No|Not Applicable
+|Sem2Percentage|varchar(30)|No|Not Applicable
+|Sem3Percentage|varchar(30)|No|Not Applicable
+|Sem4Percentage|varchar(30)|No|Not Applicable
+|Sem5Percentage|varchar(30)|No|Not Applicable
+|Sem6Percentage|varchar(30)|No|Not Applicable
+|Sem7Percentage|varchar(30)|No|Not Applicable
+|Sem8Percentage|varchar(30)|No|Not Applicable
+|Sem1KTLive|varchar(5)|No|0
+|Sem2KTLive|varchar(5)|No|0
+|Sem3KTLive|varchar(5)|No|0
+|Sem4KTLive|varchar(5)|No|0
+|Sem5KTLive|varchar(5)|No|0
+|Sem6KTLive|varchar(5)|No|0
+|Sem7KTLive|varchar(5)|No|0
+|Sem8KTLive|varchar(5)|No|0
+|Sem1KTDead|varchar(5)|No|0
+|Sem2KTDead|varchar(5)|No|0
+|Sem3KTDead|varchar(5)|No|0
+|Sem4KTDead|varchar(5)|No|0
+|Sem5KTDead|varchar(5)|No|0
+|Sem6KTDead|varchar(5)|No|0
+|Sem7KTDead|varchar(5)|No|0
+|Sem8KTDead|varchar(5)|No|0
+|Sem1KTDrop|varchar(5)|No|0
+|Sem2KTDrop|varchar(5)|No|0
+|Sem3KTDrop|varchar(5)|No|0
+|Sem4KTDrop|varchar(5)|No|0
+|Sem5KTDrop|varchar(5)|No|0
+|Sem6KTDrop|varchar(5)|No|0
+|Sem7KTDrop|varchar(5)|No|0
+|Sem8KTDrop|varchar(5)|No|0
+|Name|varchar(100)|No|
+|Addrress|text|No|
+|DOB|varchar(50)|No|
+|Branch|varchar(50)|No|
+== Dumping data for table tbl_college_records
+
+== Table structure for table tbl_company
+
+|------
+|Field|Type|Null|Default
+|------
+|//**ID**//|bigint(20) |No|
+|Name|varchar(200)|No|
+|Address|varchar(200)|No|
+|City|varchar(50)|No|
+|State|varchar(50)|No|
+|EmailID|varchar(30)|No|
+|Contact|varchar(20)|No|
+|Sector|varchar(100)|No|
+|Username|varchar(20)|No|
+|Password|varchar(20)|No|
+|JoiningDate|varchar(20)|No|
+|request|varchar(500)|No|
+== Dumping data for table tbl_company
+
+|2|cosweb|abc|mumbai|Maharashtra|sda@gmail.com|998715651615|IT|cosweb|aaa|4th  April 2012|pending
+|3|Microsoft|US|CA|abc|microsoft@hotmail.com|123465789|Information Technology|microsoft|pass|24th  February 2014|pending
+|4|Google|CA|Powai|Maharashtra|google@mintemail.com|1234568790|Information Technology|google|123456|25th  February 2014|pending
+|5|Infosys|Airoli|Mumbai|Maharashtra|infosys@gmail.com|123456789|Information Technology|infosys|infosys|26th  February 2014|accept
+|7|Wipro|Powai|Mumbai|Maharshtra|wipro@gmail.com|8521479630|IT| | |25th  March 2016| 
+|8|dodge|usa|chicago|illinois|dodge@gmail.com|1233468794|auto| | |27th  November 2017| 
+|9|yahoo|usa|chicago|illinois|a@g.com|1233468794|edu| | |30th  November 2017| 
+|10|subaru|usa|chicago|illinois|a@g.b|1233468794|auto| | |30th  November 2017| 
+== Table structure for table tbl_examid
+
+|------
+|Field|Type|Null|Default
+|------
+|//**id**//|int(100)|No|
+|company_id|bigint(20)|No|0
+|student_id|int(100)|No|
+|student|varchar(100)|No|
+|date|date|No|
+== Dumping data for table tbl_examid
+
+== Table structure for table tbl_interview
+
+|------
+|Field|Type|Null|Default
+|------
+|//**ID**//|bigint(20) |No|
+|Seats|varchar(10)|No|
+|Reqiurement|varchar(200)|No|
+|Qualification|text|No|
+|Venue|varchar(200)|No|
+|Date|varchar(20)|No|
+|Timing|varchar(20)|No|
+|CompanyID|bigint(20)|No|
+|per|varchar(255)|No|
+|spesub|varchar(255)|No|
+|spemarks|varchar(255)|No|
+== Dumping data for table tbl_interview
+
+|46|50|IT Student and Com student|,CS,IT|Illinois Institute of Technology|30-11-2017|9.05|2|4.0|JAVA|90
+|47|5|Data Analyst and Data scientist|,CS,IT|Illinois Institute of Technology|2017-11-30|09:00|8|4|Adv topics in data analytics|95
+|48|2|IT professionals|,CS,IT|IIT,chicago|2017-11-30|09:30|9|4|Adv topics in data analytics|95
+|49|2|IT|,CS,IT|IIT|2017-11-30|07:34|10|4|Adv topics in data analytics|95
+== Table structure for table tbl_qbank
+
+|------
+|Field|Type|Null|Default
+|------
+|//**id**//|int(100)|No|
+|company_id|varchar(100)|No|
+|email|varchar(100)|No|
+|question|varchar(100)|No|
+|option1|varchar(100)|No|
+|option2|varchar(100)|No|
+|option3|varchar(100)|No|
+|option4|varchar(100)|No|
+|answer|varchar(100)|No|
+== Dumping data for table tbl_qbank
+
+|1|2|0|pri-minister of india|dr. manmohan singh|manmohan singh|sharad pawar|narendra modi|narendra modi
+|2|2|syntel@gmail.com|Full form of TCS|Tata Consulting Service|Tata Consult Service|Tata Consut Service|Tata Conducting Services|Tata Consulting Services
+|3|2|syntel@gmail.com|S R Tendulkar|Sachin Ramesh Tendulkar|Sachin Ramdev Thakre|Suresh Ramesh Tendulkar|Suresh Ramdev Thakre|Sachin Ramesh Tendulkar
+|4|2|syntel@gmail.com|1+1+1|3|3|4|5|3
+|5|2|syntel@gmail.com|PHP stands for|Preprocessor Hyper Text|Preprocessor Hyper Perl|Html programming|Programming Hyper Perl|Preprocessor Hyper Text
+|6|2|syntel@gmail.com|Which symbol will be used with grep command to match the pattern pat at the beginning of a line|^pat|$pat|pat$|pat^|^pat
+|7|2|syntel@gmail.com|Which command is used to sort the lines of data in a file in reverse order|sort|sh|st|sort -r|sort -r
+|8|2|syntel@gmail.com|Which command is used to display the top of the file|cat|head|more|grep|head
+|9|2|syntel@gmail.com|Which command is used to copy all files having the string chap and any two characters after that to |cp chap?? progs|cp chap* progs|cp chap[12] /progs/*.*|cp chap?? /progs/*|cp chap?? progs
+|10|2|syntel@gmail.com|Which command is used to change protection mode of files starting with the string emp and ending wit|chmod u+x emp[l-3]|chmod 777 emp*|chmod u+r ??? emp|chmod 222 emp?|chmod u+x emp[l-3]
+|11|2|syntel@gmail.com|Which command is used to remove a directory|rd|rmdir|dldir|rdir|rmdir
+|12|2|syntel@gmail.com|Which of the following keys is used to replace a single character with new text|S|s|r|C|s
+|13|2|syntel@gmail.com|Which command is used to extract specific columns from the file|cat|cut|grep|paste|cut
+|14|2|syntel@gmail.com|Which command sends the word count of the file infile to the newfile|wc infile &gt;newfile|wc &lt;infile &gt;newfile|wc infile - newfile|wc infile | newfile|wc infile &gt;newfile
+|15|2|syntel@gmail.com|Which command is used to remove the read permission of the file  note  from both the group and other|chmod go+r note|chmod go+rw note|chmod go-x note|chmod go-r, 4-x note|chmod go-r, 4-x note
+|16|2|syntel@gmail.com|Which of the following commands is used to display the directory attributes rather than its contents|ls -1 -d|ls -1|ls -x|ls -F|ls -1 -d
+|17|2|syntel@gmail.com|Which of the following files will displayed by this command cat *ch*|patch|catch|.ch|All of the above|All of the above
+|18|2|syntel@gmail.com|The Octal number to be given alogn with chmod command to make a file readable  writable and executab|000|755|744|555|755
+|19|2|syntel@gmail.com|If you are to use [Control-c] as the interrupt key instead of [Del]  then you will have to use|tty ^c|stty intr \^c|stty echoe|stty echo \^a|stty intr \^c
+|20|2|syntel@gmail.com|Which of the following is not a communication command|write|mesg|mail|grep|grep
+|21|2|syntel@gmail.com|Which command is used to concatenate all files beginning with the string  emp  and followed by a non|cat emp[!0-9]|more [emp][!0-9]|cat emp[x-z]|cat emp[a-z]|cat emp[!0-9]
+|22|2|syntel@gmail.com|The command which transcribes the standard input to the standard output and also makes a copy of the|tee|tr|sort|grep|tee
+|23|2|syntel@gmail.com|Which command is used to remove a file|remove|rm|mv|del|rm
+|24|2|syntel@gmail.com|The agency that sits between the user and the UNIX system is called the|logic|profile|shell|erxc|shell
+|25|2|syntel@gmail.com|Which of the following commands is used to update access and modification times of a file|grep|wc|touch|cat|touch
+|26|2|syntel@gmail.com|Which command is used to count just the number of characters in a file|wc - 1|wc -c|wc -w|wc -r|wc -c
+|27|2|syntel@gmail.com|Which of the following commands is used to list contents of directories|ls|lp|dir|tar|ls
+|28|2|syntel@gmail.com|Which command is used to display a file contents in octal form|cd|od|of|oct|od
+|29|2|syntel@gmail.com|Which command will be used with vi editor to insert text to left of cursor|s|S|a|i|i
+|30|2|syntel@gmail.com|In vi editor  forward search is performed using the command|:pat|:pat|/pat|All of the above|All of the above
+|31|2|syntel@gmail.com|Which option will be used with ps command to slow the entire command line of the process being run|-4|-f|-i|-4|-f
+|32|2|syntel@gmail.com|Which of the following command addresses all users who are currently hooked on|write|mail|wall|mesg|wall
+|33|2|syntel@gmail.com|Which option is used with rm command to make the command prompt the user with each filename and a ? |-r|-x|-i|-1|-i
+|34|2|syntel@gmail.com|Which of the following directories contain all the Ales created by a user  including his login direc|/tmp|/etc|/usr|/dev|/usr
+|35|2|syntel@gmail.com|Which of the following commands is used to obtain a list of all files by modification time|ls -1|ls -t|ls -i|ls -R|ls -t
+|36|2|syntel@gmail.com|Which command is used to display the characteristics of a process|pid|du|ps|au|ps
+|37|2|syntel@gmail.com|Which of the following commands is used to identify the type of file by context|ls|cat|file|more|file
+|38|2|syntel@gmail.com|The filed separator in cut command is specified with|-a option|-d option|-r option|-x option|-d option
+|39|2|syntel@gmail.com|Which of the following options will be used to display number of blocks used by a file|-c|-i|-d|-s|-s
+|41|1|1|pri-minister of india|dr. manmohan singh|manmohan singh|sharad pawar|narendra modi|narendra modi
+|42|1|1|what Long form of L&amp;T?|Lawren and Thing|List and Temapal|Lara and Hats|Larsen and turbo|Larsen and turbo
+== Table structure for table tbl_studentexamdetail
+
+|------
+|Field|Type|Null|Default
+|------
+|//**id**//|int(100)|No|
+|studentid|int(100)|No|
+|examid|int(100)|No|
+|companyid|varchar(255)|No|
+|question_id|varchar(100)|No|
+|answer|varchar(100)|No|
+|result|varchar(100)|No|
+== Dumping data for table tbl_studentexamdetail
+
+|27|0|0| |24|profile|Wrong
+|26|0|0| |30|/pat|Wrong
+|25|0|0| |26|wc -c|Correct
+|28|10|47|8|10|chmod 777 emp*|Wrong
+|29|10|47|8|37|cat|Wrong
+|30|10|47|8|32|mail|Wrong
+|31|10|47|8|7|st|Wrong
+|32|10|47|8|18|000|Wrong
+|33|10|47|8|25|wc|Wrong
+|34|10|47|8|42|Larsen and turbo|Correct
+|35|10|47|8|38|-d option|Correct
+|36|10|47|8|13|grep|Wrong
+|37|10|47|8|12|s|Correct
+|38|10|47|8|26|wc -w|Wrong
+|39|10|47|8|23|rm|Correct
+|40|10|47|8|36|ps|Correct
+|41|10|47|8|31|-i|Wrong
+|42|10|47|8|15|chmod go-r, 4-x note|Correct
+|43|10|47|8|4|3|Correct
+|44|10|47|8|14|wc infile - newfile|Wrong
+|45|10|47|8|33|-x|Wrong
+|46|10|47|8|9|cp chap* progs|Wrong
+|47|10|47|8|10|chmod 777 emp*|Wrong
+|48|10|47|8|37|cat|Wrong
+|49|10|47|8|32|mail|Wrong
+|50|10|47|8|7|st|Wrong
+|51|10|47|8|18|000|Wrong
+|52|10|47|8|25|wc|Wrong
+|53|10|47|8|42|Larsen and turbo|Correct
+|54|10|47|8|38|-d option|Correct
+|55|10|47|8|13|grep|Wrong
+|56|10|47|8|12|s|Correct
+|57|10|47|8|26|wc -w|Wrong
+|58|10|47|8|23|rm|Correct
+|59|10|47|8|36|ps|Correct
+|60|10|47|8|31|-i|Wrong
+|61|10|47|8|15|chmod go-r, 4-x note|Correct
+|62|10|47|8|4|3|Correct
+|63|10|47|8|14|wc infile - newfile|Wrong
+|64|10|47|8|33|-x|Wrong
+|65|10|47|8|9|cp chap* progs|Wrong
+|66|10|47|8|10|chmod 777 emp*|Wrong
+|67|10|47|8|37|cat|Wrong
+|68|10|47|8|32|mail|Wrong
+|69|10|47|8|7|st|Wrong
+|70|10|47|8|18|000|Wrong
+|71|10|47|8|25|wc|Wrong
+|72|10|47|8|42|Larsen and turbo|Correct
+|73|10|47|8|38|-d option|Correct
+|74|10|47|8|13|grep|Wrong
+|75|10|47|8|12|s|Correct
+|76|10|47|8|26|wc -w|Wrong
+|77|10|47|8|23|rm|Correct
+|78|10|47|8|36|ps|Correct
+|79|10|47|8|31|-i|Wrong
+|80|10|47|8|15|chmod go-r, 4-x note|Correct
+|81|10|47|8|4|3|Correct
+|82|10|47|8|14|wc infile - newfile|Wrong
+|83|10|47|8|33|-x|Wrong
+|84|10|47|8|9|cp chap* progs|Wrong
+|85|10|47|8|10|chmod 777 emp*|Wrong
+|86|10|47|8|37|cat|Wrong
+|87|10|47|8|32|mail|Wrong
+|88|10|47|8|7|st|Wrong
+|89|10|47|8|18|000|Wrong
+|90|10|47|8|25|wc|Wrong
+|91|10|47|8|42|Larsen and turbo|Correct
+|92|10|47|8|38|-d option|Correct
+|93|10|47|8|13|grep|Wrong
+|94|10|47|8|12|s|Correct
+|95|10|47|8|26|wc -w|Wrong
+|96|10|47|8|23|rm|Correct
+|97|10|47|8|36|ps|Correct
+|98|10|47|8|31|-i|Wrong
+|99|10|47|8|15|chmod go-r, 4-x note|Correct
+|100|10|47|8|4|3|Correct
+|101|10|47|8|14|wc infile - newfile|Wrong
+|102|10|47|8|33|-x|Wrong
+|103|10|47|8|9|cp chap* progs|Wrong
+|104|10|47|8|10|chmod 777 emp*|Wrong
+|105|10|47|8|37|cat|Wrong
+|106|10|47|8|32|mail|Wrong
+|107|10|47|8|7|st|Wrong
+|108|10|47|8|18|000|Wrong
+|109|10|47|8|25|wc|Wrong
+|110|10|47|8|42|Larsen and turbo|Correct
+|111|10|47|8|38|-d option|Correct
+|112|10|47|8|13|grep|Wrong
+|113|10|47|8|12|s|Correct
+|114|10|47|8|26|wc -w|Wrong
+|115|10|47|8|23|rm|Correct
+|116|10|47|8|36|ps|Correct
+|117|10|47|8|31|-i|Wrong
+|118|10|47|8|15|chmod go-r, 4-x note|Correct
+|119|10|47|8|4|3|Correct
+|120|10|47|8|14|wc infile - newfile|Wrong
+|121|10|47|8|33|-x|Wrong
+|122|10|47|8|9|cp chap* progs|Wrong
+|123|10|47|8|10|chmod 777 emp*|Wrong
+|124|10|47|8|37|cat|Wrong
+|125|10|47|8|32|mail|Wrong
+|126|10|47|8|7|st|Wrong
+|127|10|47|8|18|000|Wrong
+|128|10|47|8|25|wc|Wrong
+|129|10|47|8|42|Larsen and turbo|Correct
+|130|10|47|8|38|-d option|Correct
+|131|10|47|8|13|grep|Wrong
+|132|10|47|8|12|s|Correct
+|133|10|47|8|26|wc -w|Wrong
+|134|10|47|8|23|rm|Correct
+|135|10|47|8|36|ps|Correct
+|136|10|47|8|31|-i|Wrong
+|137|10|47|8|15|chmod go-r, 4-x note|Correct
+|138|10|47|8|4|3|Correct
+|139|10|47|8|14|wc infile - newfile|Wrong
+|140|10|47|8|33|-x|Wrong
+|141|10|47|8|9|cp chap* progs|Wrong
+|142|10|47|8|10|chmod 777 emp*|Wrong
+|143|10|47|8|37|cat|Wrong
+|144|10|47|8|32|mail|Wrong
+|145|10|47|8|7|st|Wrong
+|146|10|47|8|18|000|Wrong
+|147|10|47|8|25|wc|Wrong
+|148|10|47|8|42|Larsen and turbo|Correct
+|149|10|47|8|38|-d option|Correct
+|150|10|47|8|13|grep|Wrong
+|151|10|47|8|12|s|Correct
+|152|10|47|8|26|wc -w|Wrong
+|153|10|47|8|23|rm|Correct
+|154|10|47|8|36|ps|Correct
+|155|10|47|8|31|-i|Wrong
+|156|10|47|8|15|chmod go-r, 4-x note|Correct
+|157|10|47|8|4|3|Correct
+|158|10|47|8|14|wc infile - newfile|Wrong
+|159|10|47|8|33|-x|Wrong
+|160|10|47|8|9|cp chap* progs|Wrong
+|161|10|47|8|10|chmod 777 emp*|Wrong
+|162|10|47|8|37|cat|Wrong
+|163|10|47|8|32|mail|Wrong
+|164|10|47|8|7|st|Wrong
+|165|10|47|8|18|000|Wrong
+|166|10|47|8|25|wc|Wrong
+|167|10|47|8|42|Larsen and turbo|Correct
+|168|10|47|8|38|-d option|Correct
+|169|10|47|8|13|grep|Wrong
+|170|10|47|8|12|s|Correct
+|171|10|47|8|26|wc -w|Wrong
+|172|10|47|8|23|rm|Correct
+|173|10|47|8|36|ps|Correct
+|174|10|47|8|31|-i|Wrong
+|175|10|47|8|15|chmod go-r, 4-x note|Correct
+|176|10|47|8|4|3|Correct
+|177|10|47|8|14|wc infile - newfile|Wrong
+|178|10|47|8|33|-x|Wrong
+|179|10|47|8|9|cp chap* progs|Wrong
+|180|10|47|8|10|chmod 777 emp*|Wrong
+|181|10|47|8|37|cat|Wrong
+|182|10|47|8|32|mail|Wrong
+|183|10|47|8|7|st|Wrong
+|184|10|47|8|18|000|Wrong
+|185|10|47|8|25|wc|Wrong
+|186|10|47|8|42|Larsen and turbo|Correct
+|187|10|47|8|38|-d option|Correct
+|188|10|47|8|13|grep|Wrong
+|189|10|47|8|12|s|Correct
+|190|10|47|8|26|wc -w|Wrong
+|191|10|47|8|23|rm|Correct
+|192|10|47|8|36|ps|Correct
+|193|10|47|8|31|-i|Wrong
+|194|10|47|8|15|chmod go-r, 4-x note|Correct
+|195|10|47|8|4|3|Correct
+|196|10|47|8|14|wc infile - newfile|Wrong
+|197|10|47|8|33|-x|Wrong
+|198|10|47|8|9|cp chap* progs|Wrong
+|199|10|47|8|10|chmod 777 emp*|Wrong
+|200|10|47|8|37|cat|Wrong
+|201|10|47|8|32|mail|Wrong
+|202|10|47|8|7|st|Wrong
+|203|10|47|8|18|000|Wrong
+|204|10|47|8|25|wc|Wrong
+|205|10|47|8|42|Larsen and turbo|Correct
+|206|10|47|8|38|-d option|Correct
+|207|10|47|8|13|grep|Wrong
+|208|10|47|8|12|s|Correct
+|209|10|47|8|26|wc -w|Wrong
+|210|10|47|8|23|rm|Correct
+|211|10|47|8|36|ps|Correct
+|212|10|47|8|31|-i|Wrong
+|213|10|47|8|15|chmod go-r, 4-x note|Correct
+|214|10|47|8|4|3|Correct
+|215|10|47|8|14|wc infile - newfile|Wrong
+|216|10|47|8|33|-x|Wrong
+|217|10|47|8|9|cp chap* progs|Wrong
+|218|10|47|8|10|chmod 777 emp*|Wrong
+|219|10|47|8|37|cat|Wrong
+|220|10|47|8|32|mail|Wrong
+|221|10|47|8|7|st|Wrong
+|222|10|47|8|18|000|Wrong
+|223|10|47|8|25|wc|Wrong
+|224|10|47|8|42|Larsen and turbo|Correct
+|225|10|47|8|38|-d option|Correct
+|226|10|47|8|13|grep|Wrong
+|227|10|47|8|12|s|Correct
+|228|10|47|8|26|wc -w|Wrong
+|229|10|47|8|23|rm|Correct
+|230|10|47|8|36|ps|Correct
+|231|10|47|8|31|-i|Wrong
+|232|10|47|8|15|chmod go-r, 4-x note|Correct
+|233|10|47|8|4|3|Correct
+|234|10|47|8|14|wc infile - newfile|Wrong
+|235|10|47|8|33|-x|Wrong
+|236|10|47|8|9|cp chap* progs|Wrong
+|237|10|47|8|10|chmod 777 emp*|Wrong
+|238|10|47|8|37|cat|Wrong
+|239|10|47|8|32|mail|Wrong
+|240|10|47|8|7|st|Wrong
+|241|10|47|8|18|000|Wrong
+|242|10|47|8|25|wc|Wrong
+|243|10|47|8|42|Larsen and turbo|Correct
+|244|10|47|8|38|-d option|Correct
+|245|10|47|8|13|grep|Wrong
+|246|10|47|8|12|s|Correct
+|247|10|47|8|26|wc -w|Wrong
+|248|10|47|8|23|rm|Correct
+|249|10|47|8|36|ps|Correct
+|250|10|47|8|31|-i|Wrong
+|251|10|47|8|15|chmod go-r, 4-x note|Correct
+|252|10|47|8|4|3|Correct
+|253|10|47|8|14|wc infile - newfile|Wrong
+|254|10|47|8|33|-x|Wrong
+|255|10|47|8|9|cp chap* progs|Wrong
+|256|10|47|8|10|chmod 777 emp*|Wrong
+|257|10|47|8|37|cat|Wrong
+|258|10|47|8|32|mail|Wrong
+|259|10|47|8|7|st|Wrong
+|260|10|47|8|18|000|Wrong
+|261|10|47|8|25|wc|Wrong
+|262|10|47|8|42|Larsen and turbo|Correct
+|263|10|47|8|38|-d option|Correct
+|264|10|47|8|13|grep|Wrong
+|265|10|47|8|12|s|Correct
+|266|10|47|8|26|wc -w|Wrong
+|267|10|47|8|23|rm|Correct
+|268|10|47|8|36|ps|Correct
+|269|10|47|8|31|-i|Wrong
+|270|10|47|8|15|chmod go-r, 4-x note|Correct
+|271|10|47|8|4|3|Correct
+|272|10|47|8|14|wc infile - newfile|Wrong
+|273|10|47|8|33|-x|Wrong
+|274|10|47|8|9|cp chap* progs|Wrong
+|275|10|47|8|10|chmod 777 emp*|Wrong
+|276|10|47|8|37|cat|Wrong
+|277|10|47|8|32|mail|Wrong
+|278|10|47|8|7|st|Wrong
+|279|10|47|8|18|000|Wrong
+|280|10|47|8|25|wc|Wrong
+|281|10|47|8|42|Larsen and turbo|Correct
+|282|10|47|8|38|-d option|Correct
+|283|10|47|8|13|grep|Wrong
+|284|10|47|8|12|s|Correct
+|285|10|47|8|26|wc -w|Wrong
+|286|10|47|8|23|rm|Correct
+|287|10|47|8|36|ps|Correct
+|288|10|47|8|31|-i|Wrong
+|289|10|47|8|15|chmod go-r, 4-x note|Correct
+|290|10|47|8|4|3|Correct
+|291|10|47|8|14|wc infile - newfile|Wrong
+|292|10|47|8|33|-x|Wrong
+|293|10|47|8|9|cp chap* progs|Wrong
+|294|10|47|8|10|chmod 777 emp*|Wrong
+|295|10|47|8|37|cat|Wrong
+|296|10|47|8|32|mail|Wrong
+|297|10|47|8|7|st|Wrong
+|298|10|47|8|18|000|Wrong
+|299|10|47|8|25|wc|Wrong
+|300|10|47|8|42|Larsen and turbo|Correct
+|301|10|47|8|38|-d option|Correct
+|302|10|47|8|13|grep|Wrong
+|303|10|47|8|12|s|Correct
+|304|10|47|8|26|wc -w|Wrong
+|305|10|47|8|23|rm|Correct
+|306|10|47|8|36|ps|Correct
+|307|10|47|8|31|-i|Wrong
+|308|10|47|8|15|chmod go-r, 4-x note|Correct
+|309|10|47|8|4|3|Correct
+|310|10|47|8|14|wc infile - newfile|Wrong
+|311|10|47|8|33|-x|Wrong
+|312|10|47|8|9|cp chap* progs|Wrong
+|313|10|47|8|10|chmod 777 emp*|Wrong
+|314|10|47|8|37|cat|Wrong
+|315|10|47|8|32|mail|Wrong
+|316|10|47|8|7|st|Wrong
+|317|10|47|8|18|000|Wrong
+|318|10|47|8|25|wc|Wrong
+|319|10|47|8|42|Larsen and turbo|Correct
+|320|10|47|8|38|-d option|Correct
+|321|10|47|8|13|grep|Wrong
+|322|10|47|8|12|s|Correct
+|323|10|47|8|26|wc -w|Wrong
+|324|10|47|8|23|rm|Correct
+|325|10|47|8|36|ps|Correct
+|326|10|47|8|31|-i|Wrong
+|327|10|47|8|15|chmod go-r, 4-x note|Correct
+|328|10|47|8|4|3|Correct
+|329|10|47|8|14|wc infile - newfile|Wrong
+|330|10|47|8|33|-x|Wrong
+|331|10|47|8|9|cp chap* progs|Wrong
+|332|8|46|2|27|lp|Wrong
+|333|8|46|2|42|Lawren and Thing|Wrong
+|334|8|46|2|30|:pat|Wrong
+|335|8|46|2|15|chmod go+rw note|Wrong
+|336|8|46|2|26|wc -c|Correct
+|337|8|46|2|31|-4|Wrong
+|338|8|46|2|39|-i|Wrong
+|339|8|46|2|3|Sachin Ramesh Tendulkar|Correct
+|340|8|46|2|25|grep|Wrong
+|341|8|46|2|11|rmdir|Correct
+|342|8|46|2|8|head|Correct
+|343|8|46|2|35|ls -t|Correct
+|344|8|46|2|17|catch|Wrong
+|345|8|46|2|34|/tmp|Wrong
+|346|8|46|2|1|narendra modi|Correct
+|347|8|46|2|37|cat|Wrong
+|348|8|46|2|2|Tata Consulting Service|Wrong
+|349|8|46|2|36|ps|Correct
+|350|8|46|2|32|wall|Correct
+|351|8|46|2|27|lp|Wrong
+|352|8|46|2|42|Lawren and Thing|Wrong
+|353|8|46|2|30|:pat|Wrong
+|354|8|46|2|15|chmod go+rw note|Wrong
+|355|8|46|2|26|wc -c|Correct
+|356|8|46|2|31|-4|Wrong
+|357|8|46|2|39|-i|Wrong
+|358|8|46|2|3|Sachin Ramesh Tendulkar|Correct
+|359|8|46|2|25|grep|Wrong
+|360|8|46|2|11|rmdir|Correct
+|361|8|46|2|8|head|Correct
+|362|8|46|2|35|ls -t|Correct
+|363|8|46|2|17|catch|Wrong
+|364|8|46|2|34|/tmp|Wrong
+|365|8|46|2|1|narendra modi|Correct
+|366|8|46|2|37|cat|Wrong
+|367|8|46|2|2|Tata Consulting Service|Wrong
+|368|8|46|2|36|ps|Correct
+|369|8|46|2|32|wall|Correct
+|370|8|46|2|27|lp|Wrong
+|371|8|46|2|42|Lawren and Thing|Wrong
+|372|8|46|2|30|:pat|Wrong
+|373|8|46|2|15|chmod go+rw note|Wrong
+|374|8|46|2|26|wc -c|Correct
+|375|8|46|2|31|-4|Wrong
+|376|8|46|2|39|-i|Wrong
+|377|8|46|2|3|Sachin Ramesh Tendulkar|Correct
+|378|8|46|2|25|grep|Wrong
+|379|8|46|2|11|rmdir|Correct
+|380|8|46|2|8|head|Correct
+|381|8|46|2|35|ls -t|Correct
+|382|8|46|2|17|catch|Wrong
+|383|8|46|2|34|/tmp|Wrong
+|384|8|46|2|1|narendra modi|Correct
+|385|8|46|2|37|cat|Wrong
+|386|8|46|2|2|Tata Consulting Service|Wrong
+|387|8|46|2|36|ps|Correct
+|388|8|46|2|32|wall|Correct
+|389|8|46|2|27|lp|Wrong
+|390|8|46|2|42|Lawren and Thing|Wrong
+|391|8|46|2|30|:pat|Wrong
+|392|8|46|2|15|chmod go+rw note|Wrong
+|393|8|46|2|26|wc -c|Correct
+|394|8|46|2|31|-4|Wrong
+|395|8|46|2|39|-i|Wrong
+|396|8|46|2|3|Sachin Ramesh Tendulkar|Correct
+|397|8|46|2|25|grep|Wrong
+|398|8|46|2|11|rmdir|Correct
+|399|8|46|2|8|head|Correct
+|400|8|46|2|35|ls -t|Correct
+|401|8|46|2|17|catch|Wrong
+|402|8|46|2|34|/tmp|Wrong
+|403|8|46|2|1|narendra modi|Correct
+|404|8|46|2|37|cat|Wrong
+|405|8|46|2|2|Tata Consulting Service|Wrong
+|406|8|46|2|36|ps|Correct
+|407|8|46|2|32|wall|Correct
+|408|8|46|2|27|lp|Wrong
+|409|8|46|2|42|Lawren and Thing|Wrong
+|410|8|46|2|30|:pat|Wrong
+|411|8|46|2|15|chmod go+rw note|Wrong
+|412|8|46|2|26|wc -c|Correct
+|413|8|46|2|31|-4|Wrong
+|414|8|46|2|39|-i|Wrong
+|415|8|46|2|3|Sachin Ramesh Tendulkar|Correct
+|416|8|46|2|25|grep|Wrong
+|417|8|46|2|11|rmdir|Correct
+|418|8|46|2|8|head|Correct
+|419|8|46|2|35|ls -t|Correct
+|420|8|46|2|17|catch|Wrong
+|421|8|46|2|34|/tmp|Wrong
+|422|8|46|2|1|narendra modi|Correct
+|423|8|46|2|37|cat|Wrong
+|424|8|46|2|2|Tata Consulting Service|Wrong
+|425|8|46|2|36|ps|Correct
+|426|8|46|2|32|wall|Correct
+|427|8|46|2|27|lp|Wrong
+|428|8|46|2|42|Lawren and Thing|Wrong
+|429|8|46|2|30|:pat|Wrong
+|430|8|46|2|15|chmod go+rw note|Wrong
+|431|8|46|2|26|wc -c|Correct
+|432|8|46|2|31|-4|Wrong
+|433|8|46|2|39|-i|Wrong
+|434|8|46|2|3|Sachin Ramesh Tendulkar|Correct
+|435|8|46|2|25|grep|Wrong
+|436|8|46|2|11|rmdir|Correct
+|437|8|46|2|8|head|Correct
+|438|8|46|2|35|ls -t|Correct
+|439|8|46|2|17|catch|Wrong
+|440|8|46|2|34|/tmp|Wrong
+|441|8|46|2|1|narendra modi|Correct
+|442|8|46|2|37|cat|Wrong
+|443|8|46|2|2|Tata Consulting Service|Wrong
+|444|8|46|2|36|ps|Correct
+|445|8|46|2|32|wall|Correct
+|446|8|46|2|27|lp|Wrong
+|447|8|46|2|42|Lawren and Thing|Wrong
+|448|8|46|2|30|:pat|Wrong
+|449|8|46|2|15|chmod go+rw note|Wrong
+|450|8|46|2|26|wc -c|Correct
+|451|8|46|2|31|-4|Wrong
+|452|8|46|2|39|-i|Wrong
+|453|8|46|2|3|Sachin Ramesh Tendulkar|Correct
+|454|8|46|2|25|grep|Wrong
+|455|8|46|2|11|rmdir|Correct
+|456|8|46|2|8|head|Correct
+|457|8|46|2|35|ls -t|Correct
+|458|8|46|2|17|catch|Wrong
+|459|8|46|2|34|/tmp|Wrong
+|460|8|46|2|1|narendra modi|Correct
+|461|8|46|2|37|cat|Wrong
+|462|8|46|2|2|Tata Consulting Service|Wrong
+|463|8|46|2|36|ps|Correct
+|464|8|46|2|32|wall|Correct
+|465|8|46|2|27|lp|Wrong
+|466|8|46|2|42|Lawren and Thing|Wrong
+|467|8|46|2|30|:pat|Wrong
+|468|8|46|2|15|chmod go+rw note|Wrong
+|469|8|46|2|26|wc -c|Correct
+|470|8|46|2|31|-4|Wrong
+|471|8|46|2|39|-i|Wrong
+|472|8|46|2|3|Sachin Ramesh Tendulkar|Correct
+|473|8|46|2|25|grep|Wrong
+|474|8|46|2|11|rmdir|Correct
+|475|8|46|2|8|head|Correct
+|476|8|46|2|35|ls -t|Correct
+|477|8|46|2|17|catch|Wrong
+|478|8|46|2|34|/tmp|Wrong
+|479|8|46|2|1|narendra modi|Correct
+|480|8|46|2|37|cat|Wrong
+|481|8|46|2|2|Tata Consulting Service|Wrong
+|482|8|46|2|36|ps|Correct
+|483|8|46|2|32|wall|Correct
+|484|8|46|2|27|lp|Wrong
+|485|8|46|2|42|Lawren and Thing|Wrong
+|486|8|46|2|30|:pat|Wrong
+|487|8|46|2|15|chmod go+rw note|Wrong
+|488|8|46|2|26|wc -c|Correct
+|489|8|46|2|31|-4|Wrong
+|490|8|46|2|39|-i|Wrong
+|491|8|46|2|3|Sachin Ramesh Tendulkar|Correct
+|492|8|46|2|25|grep|Wrong
+|493|8|46|2|11|rmdir|Correct
+|494|8|46|2|8|head|Correct
+|495|8|46|2|35|ls -t|Correct
+|496|8|46|2|17|catch|Wrong
+|497|8|46|2|34|/tmp|Wrong
+|498|8|46|2|1|narendra modi|Correct
+|499|8|46|2|37|cat|Wrong
+|500|8|46|2|2|Tata Consulting Service|Wrong
+|501|8|46|2|36|ps|Correct
+|502|8|46|2|32|wall|Correct
+|503|8|46|2|27|lp|Wrong
+|504|8|46|2|42|Lawren and Thing|Wrong
+|505|8|46|2|30|:pat|Wrong
+|506|8|46|2|15|chmod go+rw note|Wrong
+|507|8|46|2|26|wc -c|Correct
+|508|8|46|2|31|-4|Wrong
+|509|8|46|2|39|-i|Wrong
+|510|8|46|2|3|Sachin Ramesh Tendulkar|Correct
+|511|8|46|2|25|grep|Wrong
+|512|8|46|2|11|rmdir|Correct
+|513|8|46|2|8|head|Correct
+|514|8|46|2|35|ls -t|Correct
+|515|8|46|2|17|catch|Wrong
+|516|8|46|2|34|/tmp|Wrong
+|517|8|46|2|1|narendra modi|Correct
+|518|8|46|2|37|cat|Wrong
+|519|8|46|2|2|Tata Consulting Service|Wrong
+|520|8|46|2|36|ps|Correct
+|521|8|46|2|32|wall|Correct
+|522|8|46|2|27|lp|Wrong
+|523|8|46|2|42|Lawren and Thing|Wrong
+|524|8|46|2|30|:pat|Wrong
+|525|8|46|2|15|chmod go+rw note|Wrong
+|526|8|46|2|26|wc -c|Correct
+|527|8|46|2|31|-4|Wrong
+|528|8|46|2|39|-i|Wrong
+|529|8|46|2|3|Sachin Ramesh Tendulkar|Correct
+|530|8|46|2|25|grep|Wrong
+|531|8|46|2|11|rmdir|Correct
+|532|8|46|2|8|head|Correct
+|533|8|46|2|35|ls -t|Correct
+|534|8|46|2|17|catch|Wrong
+|535|8|46|2|34|/tmp|Wrong
+|536|8|46|2|1|narendra modi|Correct
+|537|8|46|2|37|cat|Wrong
+|538|8|46|2|2|Tata Consulting Service|Wrong
+|539|8|46|2|36|ps|Correct
+|540|8|46|2|32|wall|Correct
+|541|8|46|2|27|lp|Wrong
+|542|8|46|2|42|Lawren and Thing|Wrong
+|543|8|46|2|30|:pat|Wrong
+|544|8|46|2|15|chmod go+rw note|Wrong
+|545|8|46|2|26|wc -c|Correct
+|546|8|46|2|31|-4|Wrong
+|547|8|46|2|39|-i|Wrong
+|548|8|46|2|3|Sachin Ramesh Tendulkar|Correct
+|549|8|46|2|25|grep|Wrong
+|550|8|46|2|11|rmdir|Correct
+|551|8|46|2|8|head|Correct
+|552|8|46|2|35|ls -t|Correct
+|553|8|46|2|17|catch|Wrong
+|554|8|46|2|34|/tmp|Wrong
+|555|8|46|2|1|narendra modi|Correct
+|556|8|46|2|37|cat|Wrong
+|557|8|46|2|2|Tata Consulting Service|Wrong
+|558|8|46|2|36|ps|Correct
+|559|8|46|2|32|wall|Correct
+|560|8|46|2|27|lp|Wrong
+|561|8|46|2|42|Lawren and Thing|Wrong
+|562|8|46|2|30|:pat|Wrong
+|563|8|46|2|15|chmod go+rw note|Wrong
+|564|8|46|2|26|wc -c|Correct
+|565|8|46|2|31|-4|Wrong
+|566|8|46|2|39|-i|Wrong
+|567|8|46|2|3|Sachin Ramesh Tendulkar|Correct
+|568|8|46|2|25|grep|Wrong
+|569|8|46|2|11|rmdir|Correct
+|570|8|46|2|8|head|Correct
+|571|8|46|2|35|ls -t|Correct
+|572|8|46|2|17|catch|Wrong
+|573|8|46|2|34|/tmp|Wrong
+|574|8|46|2|1|narendra modi|Correct
+|575|8|46|2|37|cat|Wrong
+|576|8|46|2|2|Tata Consulting Service|Wrong
+|577|8|46|2|36|ps|Correct
+|578|8|46|2|32|wall|Correct
+|579|8|46|2|27|lp|Wrong
+|580|8|46|2|42|Lawren and Thing|Wrong
+|581|8|46|2|30|:pat|Wrong
+|582|8|46|2|15|chmod go+rw note|Wrong
+|583|8|46|2|26|wc -c|Correct
+|584|8|46|2|31|-4|Wrong
+|585|8|46|2|39|-i|Wrong
+|586|8|46|2|3|Sachin Ramesh Tendulkar|Correct
+|587|8|46|2|25|grep|Wrong
+|588|8|46|2|11|rmdir|Correct
+|589|8|46|2|8|head|Correct
+|590|8|46|2|35|ls -t|Correct
+|591|8|46|2|17|catch|Wrong
+|592|8|46|2|34|/tmp|Wrong
+|593|8|46|2|1|narendra modi|Correct
+|594|8|46|2|37|cat|Wrong
+|595|8|46|2|2|Tata Consulting Service|Wrong
+|596|8|46|2|36|ps|Correct
+|597|8|46|2|32|wall|Correct
+|598|8|46|2|27|lp|Wrong
+|599|8|46|2|42|Lawren and Thing|Wrong
+|600|8|46|2|30|:pat|Wrong
+|601|8|46|2|15|chmod go+rw note|Wrong
+|602|8|46|2|26|wc -c|Correct
+|603|8|46|2|31|-4|Wrong
+|604|8|46|2|39|-i|Wrong
+|605|8|46|2|3|Sachin Ramesh Tendulkar|Correct
+|606|8|46|2|25|grep|Wrong
+|607|8|46|2|11|rmdir|Correct
+|608|8|46|2|8|head|Correct
+|609|8|46|2|35|ls -t|Correct
+|610|8|46|2|17|catch|Wrong
+|611|8|46|2|34|/tmp|Wrong
+|612|8|46|2|1|narendra modi|Correct
+|613|8|46|2|37|cat|Wrong
+|614|8|46|2|2|Tata Consulting Service|Wrong
+|615|8|46|2|36|ps|Correct
+|616|8|46|2|32|wall|Correct
+|617|8|46|2|27|lp|Wrong
+|618|8|46|2|42|Lawren and Thing|Wrong
+|619|8|46|2|30|:pat|Wrong
+|620|8|46|2|15|chmod go+rw note|Wrong
+|621|8|46|2|26|wc -c|Correct
+|622|8|46|2|31|-4|Wrong
+|623|8|46|2|39|-i|Wrong
+|624|8|46|2|3|Sachin Ramesh Tendulkar|Correct
+|625|8|46|2|25|grep|Wrong
+|626|8|46|2|11|rmdir|Correct
+|627|8|46|2|8|head|Correct
+|628|8|46|2|35|ls -t|Correct
+|629|8|46|2|17|catch|Wrong
+|630|8|46|2|34|/tmp|Wrong
+|631|8|46|2|1|narendra modi|Correct
+|632|8|46|2|37|cat|Wrong
+|633|8|46|2|2|Tata Consulting Service|Wrong
+|634|8|46|2|36|ps|Correct
+|635|8|46|2|32|wall|Correct
+|636|8|46|2|27|lp|Wrong
+|637|8|46|2|42|Lawren and Thing|Wrong
+|638|8|46|2|30|:pat|Wrong
+|639|8|46|2|15|chmod go+rw note|Wrong
+|640|8|46|2|26|wc -c|Correct
+|641|8|46|2|31|-4|Wrong
+|642|8|46|2|39|-i|Wrong
+|643|8|46|2|3|Sachin Ramesh Tendulkar|Correct
+|644|8|46|2|25|grep|Wrong
+|645|8|46|2|11|rmdir|Correct
+|646|8|46|2|8|head|Correct
+|647|8|46|2|35|ls -t|Correct
+|648|8|46|2|17|catch|Wrong
+|649|8|46|2|34|/tmp|Wrong
+|650|8|46|2|1|narendra modi|Correct
+|651|8|46|2|37|cat|Wrong
+|652|8|46|2|2|Tata Consulting Service|Wrong
+|653|8|46|2|36|ps|Correct
+|654|8|46|2|32|wall|Correct
+|655|8|46|2|27|lp|Wrong
+|656|8|46|2|42|Lawren and Thing|Wrong
+|657|8|46|2|30|:pat|Wrong
+|658|8|46|2|15|chmod go+rw note|Wrong
+|659|8|46|2|26|wc -c|Correct
+|660|8|46|2|31|-4|Wrong
+|661|8|46|2|39|-i|Wrong
+|662|8|46|2|3|Sachin Ramesh Tendulkar|Correct
+|663|8|46|2|25|grep|Wrong
+|664|8|46|2|11|rmdir|Correct
+|665|8|46|2|8|head|Correct
+|666|8|46|2|35|ls -t|Correct
+|667|8|46|2|17|catch|Wrong
+|668|8|46|2|34|/tmp|Wrong
+|669|8|46|2|1|narendra modi|Correct
+|670|8|46|2|37|cat|Wrong
+|671|8|46|2|2|Tata Consulting Service|Wrong
+|672|8|46|2|36|ps|Correct
+|673|8|46|2|32|wall|Correct
+== Table structure for table tbl_teacher
+
+|------
+|Field|Type|Null|Default
+|------
+|//**id**//|int(255)|No|
+|name|varchar(500)|No|
+|address|varchar(500)|No|
+|mobile|varchar(500)|No|
+|email|varchar(500)|No|
+|class|varchar(255)|No|
+|branch|varchar(500)|No|
+|semester|varchar(255)|No|
+|subject|varchar(500)|No|
+|username|varchar(500)|No|
+|password|varchar(500)|No|
+== Dumping data for table tbl_teacher
+
+|5|James Papademas|chicago, IL|3125647898|jpdemas@iit.edu|degree|CS|sem4|dwm|jpdemas@iit.edu|3125647898
+|12|Jia Wang|usa|9632587410|jiawang@iit.edu|Degree|ETRL|Sem 1| |jiawang|jiawang
+|7|Yong Zheng|chicago|9632587410|yzheng66@iit.edu|Degree|IT|Sem 1| |yzheng|yzheng
+|13|Vighnesh|usa|9632587410|vsawant10@gmail.com|Diploma|CS|sem 1| |vighnesh|vighnesh
+|9|av|asg|9632587410|a@g.c|Degree|ETRL|Sem 5| |asf|asf
+|10|vighhu|asf|9632587410|a@g.com|Degree|ETRX|Sem 5| |vig|vig
+|11|asd|asdwafafc214|9632587410|asd@g.in|Diploma|CS|Sem 3| |as|as
+== Table structure for table tbl_tpo
+
+|------
+|Field|Type|Null|Default
+|------
+|//**ID**//|bigint(20) |No|
+|EmailID|varchar(30)|No|
+|Username|varchar(20)|No|
+|Password|varchar(20)|No|
+== Dumping data for table tbl_tpo
+
+|1|tpo@gmail.com|t|t
+== Table structure for table tbl_userprofile
+
+|------
+|Field|Type|Null|Default
+|------
+|//**UserID**//|bigint(20)|No|
+|Name|varchar(100)|No|
+|Address|varchar(200)|No|
+|EmailID|varchar(40)|No|
+|DOB|varchar(20)|No|
+|Contact|varchar(20)|No|
+|City|varchar(30)|No|
+|State|varchar(30)|No|
+|Gender|varchar(20)|No|
+|MaritialStatus|varchar(30)|No|
+|interest|varchar(255)|No|
+|language|varchar(255)|No|
+|SSCYear|varchar(20)|No|
+|SSCUniversity|varchar(100)|No|
+|SSCPercentage|varchar(20)|No|
+|HSCUniversity|varchar(100)|No|
+|HSCYear|varchar(20)|No|
+|HSCSkill|varchar(50)|No|
+|HSCPercentage|varchar(20)|No|
+|Sem1Percentage|varchar(30)|No|
+|Sem2Percentage|varchar(30)|No|
+|Sem3Percentage|varchar(30)|No|
+|Sem4Percentage|varchar(30)|No|
+|Sem5Percentage|varchar(30)|No|
+|Sem6Percentage|varchar(30)|No|
+|Sem7Percentage|varchar(30)|No|
+|Sem8Percentage|varchar(30)|No|
+|Sem1KTLive|varchar(5)|No|
+|Sem2KTLive|varchar(5)|No|
+|Sem3KTLive|varchar(5)|No|
+|Sem4KTLive|varchar(5)|No|
+|Sem5KTLive|varchar(5)|No|
+|Sem6KTLive|varchar(5)|No|
+|Sem7KTLive|varchar(5)|No|
+|Sem8KTLive|varchar(5)|No|
+|Sem1KTDead|varchar(5)|No|
+|Sem2KTDead|varchar(5)|No|
+|Sem3KTDead|varchar(5)|No|
+|Sem4KTDead|varchar(5)|No|
+|Sem5KTDead|varchar(5)|No|
+|Sem6KTDead|varchar(5)|No|
+|Sem7KTDead|varchar(5)|No|
+|Sem8KTDead|varchar(5)|No|
+|Sem1KTDrop|varchar(5)|No|
+|Sem2KTDrop|varchar(5)|No|
+|Sem3KTDrop|varchar(5)|No|
+|Sem4KTDrop|varchar(5)|No|
+|Sem5KTDrop|varchar(5)|No|
+|Sem6KTDrop|varchar(5)|No|
+|Sem7KTDrop|varchar(5)|No|
+|Sem8KTDrop|varchar(5)|No|
+|Photo|varchar(200)|No|
+|CV|varchar(200)|No|
+|Branch|varchar(50)|No|
+== Dumping data for table tbl_userprofile
+
+|8|Vighnesh Sawant|Chicago,USA|vsawant10@gmail.com|17/11/1994|5715659109|chicago|illinois|male|Single| | |2010|mumbai|94|mumbai|2012|Science|85|4|4|4|4|4|4|4|4|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|IMG_6911.JPG| |Information Technology
+== Table structure for table tbl_users
+
+|------
+|Field|Type|Null|Default
+|------
+|//**ID**//|bigint(20) |No|
+|Name|varchar(100)|No|
+|Username|varchar(20)|No|
+|Password|varchar(20)|No|
+|JoiningDate|varchar(40)|No|
+|Active|bit(1)|No|b'0'
+|quali|varchar(500)|No|
+|totalper|varchar(500)|No|
+|email|varchar(500)|No|
+== Dumping data for table tbl_users
+
+|8|Vighnesh|vighnesh|vighnesh|30th  November 2017|0|CS|4|vsawant10@gmail.com
+|10|vighnesh|vsawant|Vighnesh17|27th  November 2017|0|IT|4|vsawant10@gmail.com
+== Table structure for table tebemarks
+
+|------
+|Field|Type|Null|Default
+|------
+|uid|varchar(255)|Yes|NULL
+|addyear|varchar(255)|Yes|NULL
+|febranch|varchar(255)|Yes|NULL
+|SUB51|varchar(255)|Yes|NULL
+|TMAR51|varchar(255)|Yes|NULL
+|IMAR51|varchar(255)|Yes|NULL
+|TWMAR51|varchar(255)|Yes|NULL
+|PMAR51|varchar(255)|Yes|NULL
+|OMAR51|varchar(255)|Yes|NULL
+|SMAR51|varchar(255)|Yes|NULL
+|PF51|varchar(255)|Yes|NULL
+|SUB52|varchar(255)|Yes|NULL
+|TMAR52|varchar(255)|Yes|NULL
+|IMAR52|varchar(255)|Yes|NULL
+|TWMAR52|varchar(255)|Yes|NULL
+|PMAR52|varchar(255)|Yes|NULL
+|OMAR52|varchar(255)|Yes|NULL
+|SMAR52|varchar(255)|Yes|NULL
+|PF52|varchar(255)|Yes|NULL
+|SUB53|varchar(255)|Yes|NULL
+|TMAR53|varchar(255)|Yes|NULL
+|IMAR53|varchar(255)|Yes|NULL
+|TWMAR53|varchar(255)|Yes|NULL
+|PMAR53|varchar(255)|Yes|NULL
+|OMAR53|varchar(255)|Yes|NULL
+|SMAR53|varchar(255)|Yes|NULL
+|PF53|varchar(255)|Yes|NULL
+|SUB54|varchar(255)|Yes|NULL
+|TMAR54|varchar(255)|Yes|NULL
+|IMAR54|varchar(255)|Yes|NULL
+|TWMAR54|varchar(255)|Yes|NULL
+|PMAR54|varchar(255)|Yes|NULL
+|OMAR54|varchar(255)|Yes|NULL
+|SMAR54|varchar(255)|Yes|NULL
+|PF54|varchar(255)|Yes|NULL
+|SUB55|varchar(255)|Yes|NULL
+|TMAR55|varchar(255)|Yes|NULL
+|IMAR55|varchar(255)|Yes|NULL
+|TWMAR55|varchar(255)|Yes|NULL
+|PMAR55|varchar(255)|Yes|NULL
+|OMAR55|varchar(255)|Yes|NULL
+|SMAR55|varchar(255)|Yes|NULL
+|PF55|varchar(255)|Yes|NULL
+|SUB56|varchar(255)|Yes|NULL
+|TMAR56|varchar(255)|Yes|NULL
+|IMAR56|varchar(255)|Yes|NULL
+|TWMAR56|varchar(255)|Yes|NULL
+|PMAR56|varchar(255)|Yes|NULL
+|OMAR56|varchar(255)|Yes|NULL
+|SMAR56|varchar(255)|Yes|NULL
+|PF56|varchar(255)|Yes|NULL
+|SUB57|varchar(255)|Yes|NULL
+|TMAR57|varchar(255)|Yes|NULL
+|IMAR57|varchar(255)|Yes|NULL
+|TWMAR57|varchar(255)|Yes|NULL
+|PMAR57|varchar(255)|Yes|NULL
+|OMAR57|varchar(255)|Yes|NULL
+|SMAR57|varchar(255)|Yes|NULL
+|PF57|varchar(255)|Yes|NULL
+|per5|varchar(255)|Yes|NULL
+|SUB61|varchar(255)|Yes|NULL
+|TMAR61|varchar(255)|Yes|NULL
+|IMAR61|varchar(255)|Yes|NULL
+|TWMAR61|varchar(255)|Yes|NULL
+|PMAR61|varchar(255)|Yes|NULL
+|OMAR61|varchar(255)|Yes|NULL
+|SMAR61|varchar(255)|Yes|NULL
+|PF61|varchar(255)|Yes|NULL
+|SUB62|varchar(255)|Yes|NULL
+|TMAR62|varchar(255)|Yes|NULL
+|IMAR62|varchar(255)|Yes|NULL
+|TWMAR62|varchar(255)|Yes|NULL
+|PMAR62|varchar(255)|Yes|NULL
+|OMAR62|varchar(255)|Yes|NULL
+|SMAR62|varchar(255)|Yes|NULL
+|PF62|varchar(255)|Yes|NULL
+|SUB63|varchar(255)|Yes|NULL
+|TMAR63|varchar(255)|Yes|NULL
+|IMAR63|varchar(255)|Yes|NULL
+|TWMAR63|varchar(255)|Yes|NULL
+|PMAR63|varchar(255)|Yes|NULL
+|OMAR63|varchar(255)|Yes|NULL
+|SMAR63|varchar(255)|Yes|NULL
+|PF63|varchar(255)|Yes|NULL
+|SUB64|varchar(255)|Yes|NULL
+|TMAR64|varchar(255)|Yes|NULL
+|IMAR64|varchar(255)|Yes|NULL
+|TWMAR64|varchar(255)|Yes|NULL
+|PMAR64|varchar(255)|Yes|NULL
+|OMAR64|varchar(255)|Yes|NULL
+|SMAR64|varchar(255)|Yes|NULL
+|PF64|varchar(255)|Yes|NULL
+|SUB65|varchar(255)|Yes|NULL
+|TMAR65|varchar(255)|Yes|NULL
+|IMAR65|varchar(255)|Yes|NULL
+|TWMAR65|varchar(255)|Yes|NULL
+|PMAR65|varchar(255)|Yes|NULL
+|OMAR65|varchar(255)|Yes|NULL
+|SMAR65|varchar(255)|Yes|NULL
+|PF65|varchar(255)|Yes|NULL
+|SUB66|varchar(255)|Yes|NULL
+|TMAR66|varchar(255)|Yes|NULL
+|IMAR66|varchar(255)|Yes|NULL
+|TWMAR66|varchar(255)|Yes|NULL
+|PMAR66|varchar(255)|Yes|NULL
+|OMAR66|varchar(255)|Yes|NULL
+|SMAR66|varchar(255)|Yes|NULL
+|PF66|varchar(255)|Yes|NULL
+|SUB67|varchar(255)|Yes|NULL
+|TMAR67|varchar(255)|Yes|NULL
+|IMAR67|varchar(255)|Yes|NULL
+|TWMAR67|varchar(255)|Yes|NULL
+|PMAR67|varchar(255)|Yes|NULL
+|OMAR67|varchar(255)|Yes|NULL
+|SMAR67|varchar(255)|Yes|NULL
+|PF67|varchar(255)|Yes|NULL
+|per6|varchar(255)|Yes|NULL
+|SUB71|varchar(255)|Yes|NULL
+|TMAR71|varchar(255)|Yes|NULL
+|IMAR71|varchar(255)|Yes|NULL
+|TWMAR71|varchar(255)|Yes|NULL
+|PMAR71|varchar(255)|Yes|NULL
+|OMAR71|varchar(255)|Yes|NULL
+|SMAR71|varchar(255)|Yes|NULL
+|PF71|varchar(255)|Yes|NULL
+|SUB72|varchar(255)|Yes|NULL
+|TMAR72|varchar(255)|Yes|NULL
+|IMAR72|varchar(255)|Yes|NULL
+|TWMAR72|varchar(255)|Yes|NULL
+|PMAR72|varchar(255)|Yes|NULL
+|OMAR72|varchar(255)|Yes|NULL
+|SMAR72|varchar(255)|Yes|NULL
+|PF72|varchar(255)|Yes|NULL
+|SUB73|varchar(255)|Yes|NULL
+|TMAR73|varchar(255)|Yes|NULL
+|IMAR73|varchar(255)|Yes|NULL
+|TWMAR73|varchar(255)|Yes|NULL
+|PMAR73|varchar(255)|Yes|NULL
+|OMAR73|varchar(255)|Yes|NULL
+|SMAR73|varchar(255)|Yes|NULL
+|PF73|varchar(255)|Yes|NULL
+|SUB74|varchar(255)|Yes|NULL
+|TMAR74|varchar(255)|Yes|NULL
+|IMAR74|varchar(255)|Yes|NULL
+|TWMAR74|varchar(255)|Yes|NULL
+|PMAR74|varchar(255)|Yes|NULL
+|OMAR74|varchar(255)|Yes|NULL
+|SMAR74|varchar(255)|Yes|NULL
+|PF74|varchar(255)|Yes|NULL
+|SUB75|varchar(255)|Yes|NULL
+|TMAR75|varchar(255)|Yes|NULL
+|IMAR75|varchar(255)|Yes|NULL
+|TWMAR75|varchar(255)|Yes|NULL
+|PMAR75|varchar(255)|Yes|NULL
+|OMAR75|varchar(255)|Yes|NULL
+|SMAR75|varchar(255)|Yes|NULL
+|PF75|varchar(255)|Yes|NULL
+|SUB76|varchar(255)|Yes|NULL
+|TMAR76|varchar(255)|Yes|NULL
+|IMAR76|varchar(255)|Yes|NULL
+|TWMAR76|varchar(255)|Yes|NULL
+|PMAR76|varchar(255)|Yes|NULL
+|OMAR76|varchar(255)|Yes|NULL
+|SMAR76|varchar(255)|Yes|NULL
+|PF76|varchar(255)|Yes|NULL
+|SUB77|varchar(255)|Yes|NULL
+|TMAR77|varchar(255)|Yes|NULL
+|IMAR77|varchar(255)|Yes|NULL
+|TWMAR77|varchar(255)|Yes|NULL
+|PMAR77|varchar(255)|Yes|NULL
+|OMAR77|varchar(255)|Yes|NULL
+|SMAR77|varchar(255)|Yes|NULL
+|PF77|varchar(255)|Yes|NULL
+|addyear1|varchar(255)|Yes|NULL
+|febranch1|varchar(255)|Yes|NULL
+|per7|varchar(255)|Yes|NULL
+|SUB81|varchar(255)|Yes|NULL
+|TMAR81|varchar(255)|Yes|NULL
+|IMAR81|varchar(255)|Yes|NULL
+|TWMAR81|varchar(255)|Yes|NULL
+|PMAR81|varchar(255)|Yes|NULL
+|OMAR81|varchar(255)|Yes|NULL
+|SMAR81|varchar(255)|Yes|NULL
+|PF81|varchar(255)|Yes|NULL
+|SUB82|varchar(255)|Yes|NULL
+|TMAR82|varchar(255)|Yes|NULL
+|IMAR82|varchar(255)|Yes|NULL
+|TWMAR82|varchar(255)|Yes|NULL
+|PMAR82|varchar(255)|Yes|NULL
+|OMAR82|varchar(255)|Yes|NULL
+|SMAR82|varchar(255)|Yes|NULL
+|PF82|varchar(255)|Yes|NULL
+|SUB83|varchar(255)|Yes|NULL
+|TMAR83|varchar(255)|Yes|NULL
+|IMAR83|varchar(255)|Yes|NULL
+|TWMAR83|varchar(255)|Yes|NULL
+|PMAR83|varchar(255)|Yes|NULL
+|OMAR83|varchar(255)|Yes|NULL
+|SMAR83|varchar(255)|Yes|NULL
+|PF83|varchar(255)|Yes|NULL
+|SUB84|varchar(255)|Yes|NULL
+|TMAR84|varchar(255)|Yes|NULL
+|IMAR84|varchar(255)|Yes|NULL
+|TWMAR84|varchar(255)|Yes|NULL
+|PMAR84|varchar(255)|Yes|NULL
+|OMAR84|varchar(255)|Yes|NULL
+|SMAR84|varchar(255)|Yes|NULL
+|PF84|varchar(255)|Yes|NULL
+|SUB85|varchar(255)|Yes|NULL
+|TMAR85|varchar(255)|Yes|NULL
+|IMAR85|varchar(255)|Yes|NULL
+|TWMAR85|varchar(255)|Yes|NULL
+|PMAR85|varchar(255)|Yes|NULL
+|OMAR85|varchar(255)|Yes|NULL
+|SMAR85|varchar(255)|Yes|NULL
+|PF85|varchar(255)|Yes|NULL
+|SUB86|varchar(255)|Yes|NULL
+|TMAR86|varchar(255)|Yes|NULL
+|IMAR86|varchar(255)|Yes|NULL
+|TWMAR86|varchar(255)|Yes|NULL
+|PMAR86|varchar(255)|Yes|NULL
+|OMAR86|varchar(255)|Yes|NULL
+|SMAR86|varchar(255)|Yes|NULL
+|PF86|varchar(255)|Yes|NULL
+|SUB87|varchar(255)|Yes|NULL
+|TMAR87|varchar(255)|Yes|NULL
+|IMAR87|varchar(255)|Yes|NULL
+|TWMAR87|varchar(255)|Yes|NULL
+|PMAR87|varchar(255)|Yes|NULL
+|OMAR87|varchar(255)|Yes|NULL
+|SMAR87|varchar(255)|Yes|NULL
+|PF87|varchar(255)|Yes|NULL
+|per8|varchar(255)|Yes|NULL
+== Dumping data for table tebemarks
+
+|NULL|2114|casf|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|1|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|1|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|11414|a|1|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|a|1
+|NULL|2014|Information Technology|IP|A|A|A|A|A|A|P|VP|A|A|A|A|A|A|P| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |4|MP|A|A|A|A|A|A|P|OS|A|A|A|A|A|A|P| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |4|RIA|A|A|A|A|A|A|P|SOOAD|A|A|A|A|A|A|P| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |2015|Information Technology|4|DS|A|A|A|A|A|A|P|ML|A|A|A|A|A|A|P| | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | | |4
